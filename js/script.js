@@ -1,3 +1,4 @@
+var urlBase = "https://raw.githubusercontent.com/Jordy3D/PokemonTCGPocket/refs/heads/main/images"
 
 // █▀▀ █   ▄▀█ █▀ █▀ █▀▀ █▀ 
 // █▄▄ █▄▄ █▀█ ▄█ ▄█ ██▄ ▄█ 
@@ -6,7 +7,7 @@
 class Series {
     constructor(seriesName, codename, normalCardCount, cards) {
         this.seriesName = seriesName;
-        this.seriesNameHyphen = seriesName.replace(' ', '-');
+        this.seriesNameHyphen = seriesName.replace(' ', '-').toLowerCase();
         this.codename = codename;
         this.normalCardCount = normalCardCount;
         this.cards = cards;
@@ -22,7 +23,7 @@ class Series {
 
     generateSeriesTitleHTML() {
         return `
-            <img src="images/logos/${this.seriesNameHyphen}.webp" alt="${this.seriesName} series" class="series-logo" />
+            <img src="${urlBase}/logos/${this.seriesNameHyphen}.webp" alt="${this.seriesName} series" class="series-logo" />
             <h2>${this.seriesName} (${this.codename})</h2>
             <span class="series-count">(${this.normalCardCount})</span>
         `;
@@ -43,10 +44,10 @@ class Card {
     }
 
     generateImageName() {
-        let imageName = 'images/cards/';
-        imageName += `${this.seriesName}/`;
+        let imageName = `${urlBase}/cards/`;
+        imageName += `${this.seriesName.toLowerCase()}/`;
         imageName += `${this.number}-${this.name}-${this.seriesName}.webp`;
-        imageName = imageName.replace(/ /g, '-').replace(/'/g, '');
+        imageName = imageName.replace(/ /g, '-').replace(/\'/g, '');
         return imageName;
     }
 
@@ -69,8 +70,8 @@ class Card {
                 <p>#${this.number}</p>
                 ${this.subseries ? `<span class="subseries-badge">${this.subseries}</span>` : ''}
                 <div class="card-badges">
-                ${type ? `<span class="type-badge ${type}"><img src="images/type/${type}.webp" alt="${type} type" /></span>` : ''}
-                ${rarity ? `<span class="rarity-badge ${rarity}"><img src="images/rarity/${rarity}.webp" alt="${rarity} rarity" /></span>` : ''}
+                ${type ? `<span class="type-badge ${type}"><img src="${urlBase}/type/${type}.webp" alt="${type} type" /></span>` : ''}
+                ${rarity ? `<span class="rarity-badge ${rarity}"><img src="${urlBase}/rarity/${rarity}.webp" alt="${rarity} rarity" /></span>` : ''}
                 </div>
             </div>
             <div class="card-image" style='background-image: url(${this.imageName})'>
