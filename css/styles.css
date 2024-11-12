@@ -732,11 +732,15 @@ body:not(.mobile)
 
 body.mobile {
     .card-set {
-        display: flex !important;
+        display: none;
         flex-direction: row;
         flex-wrap: wrap;
         gap: 1rem;
         padding: 0.5rem;
+
+        &.active {
+            display: flex;
+        }
     }
 
     &.binder {
