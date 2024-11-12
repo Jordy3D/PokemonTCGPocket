@@ -642,7 +642,7 @@ body.binder {
         border-radius: 8px;
         font-size: 1rem;
         color: var(--text);
-        background: var(--card-bg);
+        background: var (--card-bg);
         outline: none;
     }
 
@@ -722,3 +722,256 @@ body.binder {
     }
 }
 /*#endregion*/
+
+body:not(.mobile)
+{
+    #searchToggle, .search-close {
+        display: none;
+    }
+}
+
+body.mobile {
+    .card-set {
+        display: flex !important;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 1rem;
+        padding: 0.5rem;
+    }
+
+    &.binder {
+        .card-set {
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+    }
+    .header {
+        padding: 0;
+
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+
+        .hero {
+            padding: 1rem 0.5rem;
+            flex-direction: row;
+            gap: 0.5rem;
+
+            .header-logo {
+                height: 3rem;
+                margin-right: 0;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+        }
+
+        .header-button-container {
+            flex-direction: row;
+            position: unset;
+            margin: 0;
+            /* position: fixed; */
+            /* bottom: 0; */
+            /* left: 0; */
+            /* right: 0; */
+            /* top: auto; */
+            background: var(--card-bg);
+            padding: 0.5rem;
+            box-shadow: 0 -2px 10px var(--shadow);
+            z-index: 1000;
+            justify-content: space-around;
+
+            button {
+                font-size: 1.5rem;
+                padding: 0.75rem;
+            }
+        }
+    }
+
+    .search-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        /* bottom: 0; */
+        background: var(--background);
+        z-index: 2000;
+        transform: translateX(100%);
+        transition: transform 0.3s ease, outline 0.3s ease;
+        padding: 1rem;
+        overflow-y: auto;
+
+        outline: 100vh solid rgba(0, 0, 0, 0);
+
+        
+        &.active {
+            /* Create a forced shadow above the search window */
+            outline: 100vh solid rgba(0, 0, 0, 0.5);
+            transform: translateX(0);
+        }
+
+        .search-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            font-size: 1.5rem;
+            background: none;
+            border: none;
+            color: var(--text);
+            cursor: pointer;
+        }
+
+        .search-filters {
+            margin-top: 3rem;
+
+            .filter-toggles,
+            .filter-selects {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+
+            label {
+                width: 100%;
+                justify-content: space-between;
+                font-size: 1rem;
+                padding: 0.75rem 1rem;
+            }
+
+            select {
+                width: 100%;
+                font-size: 1rem;
+                padding: 0.75rem 1rem;
+            }
+        }
+
+        .search-header {
+            position: sticky;
+            top: 0;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--background);
+            padding: 1rem;
+            margin: -1rem -1rem 1rem -1rem;
+            border-bottom: 1px solid var(--primary);
+            z-index: 1;
+
+            .input-with-button {
+                margin: 0;
+                flex: 1;
+            }
+
+            .search-close {
+                position: static;
+                padding: 0.8rem;
+                background: var(--primary);
+                color: var(--text-white);
+                border: none;
+                border-radius: 8px;
+                font-size: 1.2rem;
+            }
+        }
+
+        .search-filters {
+            margin-top: 0;
+            padding: 0 0.5rem;
+
+            .filter-toggles,
+            .filter-selects {
+                flex-direction: row;
+                flex-wrap: wrap;
+                gap: 0.5rem;
+            }
+
+            label {
+                width: fit-content;
+                /* flex: 1; */
+                /* min-width: calc(50% - 0.25rem); */
+                justify-content: center;
+            }
+
+            .select-with-invert {
+                /* flex: 1; */
+                /* min-width: calc(100% - 0.5rem); */
+            }
+        }
+
+        #searchCount {
+            position: sticky;
+            bottom: 0;
+            background: var(--background);
+            padding: 1rem;
+            margin: 1rem -1rem -1rem -1rem;
+            border-top: 1px solid var(--primary);
+            text-align: center;
+        }
+    }
+
+    .card-set {
+        padding: 0.5rem;
+        padding-bottom: 5rem;
+        gap: 1rem;
+    }
+
+    .card {
+        padding: 0.75rem;
+        /* aspect-ratio: 107.5 / 150; */
+        min-width: fit-content;
+        max-width: calc(33.333% - 1rem);
+
+        .card-details {
+            h3 {
+                font-size: 1.1rem;
+            }
+
+            p {
+                font-size: 1rem;
+            }
+
+            .subseries-badge {
+                font-size: 0.9rem;
+                padding: 0.4rem 0.8rem;
+            }
+
+            .card-badges {
+                height: 30px;
+            }
+        }
+
+        .card-image {
+            /* max-width: 45%; */
+            display: none;
+
+            &:hover {
+                transform: none;
+                box-shadow: none;
+            }
+        }
+    }
+
+    &.binder {
+        .card-image {
+            display: unset;
+        }
+    }
+
+    #searchToggle {
+        position: fixed;
+        top: calc(1rem + 1px);
+        right: 1rem;
+        background: var(--primary);
+        color: var(--text-white);
+        border: none;
+        border-radius: 50%;
+        width: 3.5rem;
+        height: 3.5rem;
+        font-size: 1.5rem;
+        box-shadow: 0 2px 10px var(--shadow);
+        z-index: 1001;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+}

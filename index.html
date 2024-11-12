@@ -24,11 +24,15 @@
                 title="Toggle binder/detail view">
                 <span id="displayIcon" class="display-icon">📖</span>
             </button>
+            <button id="loadButton" class="load-button" aria-label="Load collection data" title="Load collection data">
+                <span id="loadIcon" class="load-icon">📂</span>
+            </button>
             <button id="exportButton" class="export-button" aria-label="Export collection data" title="Export collection data">
                 <span id="exportIcon" class="export-icon">💾</span>
             </button>
         </div>
     </header>
+    <button id="searchToggle" class="search-toggle">🔍</button>
     <div id="dropZone" class="drop-zone">
         <div class="drop-zone-content">
             <span class="drop-icon">📥</span>
@@ -36,10 +40,14 @@
         </div>
     </div>
     <div class="search-container">
-        <div class="input-with-button">
-            <input type="text" id="searchBar"
-                placeholder="Enter your search here. Use ; to separate multiple terms, use ! to invert a term">
-            <button id="clearSearch" class="clear-search" aria-label="Clear search" title="Clear search">✕</button>
+        <div class="search-header">
+            <div class="input-with-button">
+                <input type="text" id="searchBar" 
+                    placeholder="Search cards...">
+                <button id="clearSearch" class="clear-search" 
+                    aria-label="Clear search" title="Clear search">✕</button>
+            </div>
+            <button class="search-close">✕</button>
         </div>
         <div class="search-filters">
             <div class="filter-toggles">
@@ -107,7 +115,7 @@
             <span id="searchCount" class="search-count"></span>
         </div>
     </div>
-    <div class="sets-container" id="cardContainer"></div>
+    <div class="sets-container" id="cardContainer" data-internal="true"></div>
     <script src="js/script.js"></script>
 </body>
 
