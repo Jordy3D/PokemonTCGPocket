@@ -203,8 +203,40 @@ function displayCards() {
 }
 
 function updateCounter(counterEl, series) {
-    const obtainedCount = series.cards.filter(card => obtainedCards.has(`${series.codename}-${card.number}`)).length;
-    counterEl.textContent = `(${obtainedCount}/${series.normalCardCount})`;
+
+    // get the number of regular cards obtained which is the number of obtained cards below normalCardCount
+    // if normalCardCount is 0 or not defined, then all cards are considered regular
+
+    var normalObtained = 0;
+    var specialObtained = 0;
+    var textDisplay = '';
+    var titleText = '';
+
+    let normalCardCount = series.normalCardCount;
+    if (normalCardCount === 0 || !normalCardCount) {
+        normalObtained = series.cards.filter(card => obtainedCards.has(`${series.codename}-${card.number}`)).length;
+
+        textDisplay = `(${normalObtained})`;
+        titleText = `(${normalObtained}/${series.cards.length})`;
+
+    }
+    else {
+        normalObtained = series.cards.filter(card => obtainedCards.has(`${series.codename}-${card.number}`) && card.number <= normalCardCount + 1).length;
+        specialObtained = series.cards.filter(card => obtainedCards.has(`${series.codename}-${card.number}`) && card.number > normalCardCount).length;
+
+        // set the display to (♦ normalObtained/normalCarcCount) (★ specialObtained)
+        textDisplay = `(♦ ${normalObtained}/${normalCardCount}) (★ ${specialObtained})`;
+        titleText = `(♦ ${normalObtained}/${normalCardCount}) (★ ${specialObtained}/${series.cards.length - normalCardCount})`;
+    }
+
+    counterEl.textContent = textDisplay;
+    counterEl.title = titleText;
+
+    // const obtainedCount = series.cards.filter(card => obtainedCards.has(`${series.codename}-${card.number}`)).length;
+
+
+
+    // counterEl.textContent = `(${obtainedCount}/${series.normalCardCount})`;
 }
 //#endregion
 
