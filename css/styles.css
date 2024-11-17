@@ -66,6 +66,36 @@ body.dark-mode {
     --header-text: #000;
     --header-shadow: rgba(0, 0, 0, 0.1);
 }
+
+body.pocket {
+    --highlight1: #01bfe1;
+    --highlight2: #00d8b3;
+
+    --background: #e4ecf4;
+    --text: #333;
+    --text-light: #666;
+    --text-white: black;
+    --primary: #01bfe1;
+    --secondary: #ffcb05;
+
+    --card-bg: #e4ecf4;
+
+    --card-name-color: var(--primary);
+    --card-name-color-obtained: white;
+    --card-number-color: #333;
+    --card-number-color-obtained: white;
+    --card-tag-color: white;
+    --card-tag-color-obtained: white;
+    --card-tag-bg: linear-gradient(90deg, var(--highlight1), var(--highlight2));
+
+    --success: linear-gradient(90deg, var(--highlight1), var(--highlight2));
+    --success-light: var(--highlight2);
+    --success-lighter: var(--highlight1);
+
+    --shadow: #becee2;
+
+    --header-bg: linear-gradient(90deg, var(--highlight1), var(--highlight2));
+}
 /*#endregion*/
 
 /*
@@ -208,10 +238,26 @@ body::-webkit-scrollbar-thumb {
     margin-top: 2rem;
     margin-bottom: 1rem;
     padding-bottom: 1rem;
-    border-bottom: 2px solid var(--primary);
+    /* border-bottom: 2px solid var(--primary); */
     color: var(--primary);
     font-weight: 600;
     cursor: pointer;
+
+    position: relative;
+
+    &::after {
+        content: "";
+        display: block;
+        position: absolute;
+        bottom: 2px;
+        left: 0;
+        right: 0;
+
+        width: 100%;
+        height: 2px;
+        background: var(--header-bg);
+        margin-left: auto;
+    }
 
     img {
         height: 3rem;
@@ -655,6 +701,97 @@ body.binder {
         color: var(--text-light);
     }
 }
+
+body.pocket {
+    .search-container {
+        #searchBar {
+            background: var(--card-bg);
+            color: var(--text);
+            border: 2px solid var(--primary);
+
+            border-radius: 50px;
+        }
+        #clearSearch {
+            border-radius: 0 50px 50px 0;
+            /* width: 75px; */
+        }
+
+        label {
+            box-shadow: 3px 3px 8px 4px var(--shadow), -2px -2px 8px 4px white;
+            border-color: #0000 !important;
+
+            &.active {
+                background: #6F7D93;
+                font-weight: 400;
+    
+                color: white;
+            }
+            &:hover {
+                background: var(--shadow);
+                color: var(--text-white);
+                /* font-weight: 600; */
+                box-shadow: 3px 3px 8px 4px var(--shadow);
+                transition: all 200ms ease-in-out;
+            }
+        }
+
+        .select-with-invert {
+            border-radius: 50px;
+
+            select 
+            {
+                border: none;
+                background: #6F7D93;
+                color: white;
+            }
+
+            label {
+                border: none;
+                box-shadow: none;
+            }
+
+            /* font-weight: 600; */
+            box-shadow: 3px 3px 8px 4px var(--shadow);
+
+            &:hover {
+                background: var(--shadow);
+                color: var(--text-white);
+                font-weight: 400;
+                box-shadow: 3px 3px 8px 4px var(--shadow);
+            }
+        }
+    }
+
+    .series-count {
+        /* make it look sunken in */
+        background: var(--background);
+        color: var(--text);
+        padding: 0.5rem;
+        border-radius: 50px;
+        box-shadow: inset 3px 3px 8px 4px var(--shadow), inset -2px -2px 8px 4px white;
+
+        font-size: 0.9rem;
+        width: 160px;
+        text-align: center;
+    }
+
+    .card {
+        .subseries-badge {
+            background: var(--card-bg);
+            color: var(--text);
+            box-shadow: inset 3px 3px 4px 2px var(--shadow), inset -2px -2px 8px 4px white;
+        }
+
+        &.obtained {
+            .subseries-badge {
+                background: var(--success);
+                color: white;
+                box-shadow: inset 3px 3px 4px 2px #0002, inset -2px -2px 4px 2px #fff2;
+            }
+        }
+    }
+}
+
 /*#endregion*/
 
 /*
@@ -723,9 +860,9 @@ body.binder {
 }
 /*#endregion*/
 
-body:not(.mobile)
-{
-    #searchToggle, .search-close {
+body:not(.mobile) {
+    #searchToggle,
+    .search-close {
         display: none;
     }
 }
@@ -808,7 +945,6 @@ body.mobile {
 
         outline: 100vh solid rgba(0, 0, 0, 0);
 
-        
         &.active {
             /* Create a forced shadow above the search window */
             outline: 100vh solid rgba(0, 0, 0, 0.5);

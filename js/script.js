@@ -10,6 +10,8 @@ window.mobileCheck = function () {
     return check;
 };
 
+console.log('Mobile:', mobileCheck());
+
 document.body.classList.toggle('mobile', mobileCheck());
 
 // █▀▀ █   ▄▀█ █▀ █▀ █▀▀ █▀ 
@@ -218,10 +220,9 @@ function updateCounter(counterEl, series) {
 
         textDisplay = `(${normalObtained})`;
         titleText = `(${normalObtained}/${series.cards.length})`;
-
     }
     else {
-        normalObtained = series.cards.filter(card => obtainedCards.has(`${series.codename}-${card.number}`) && card.number <= normalCardCount + 1).length;
+        normalObtained = series.cards.filter(card => obtainedCards.has(`${series.codename}-${card.number}`) && card.number <= normalCardCount).length;
         specialObtained = series.cards.filter(card => obtainedCards.has(`${series.codename}-${card.number}`) && card.number > normalCardCount).length;
 
         // set the display to (♦ normalObtained/normalCarcCount) (★ specialObtained)
@@ -412,26 +413,44 @@ document.addEventListener('DOMContentLoaded', () => {
 //#region Toggles
 
 //#region Theme Toggle
-function toggleTheme(isDark) {
-    document.body.classList.toggle('dark-mode', isDark);
-    document.querySelector('.header').classList.toggle('dark-mode', isDark);
-    document.querySelectorAll('.card').forEach(card => card.classList.toggle('dark-mode', isDark));
-    document.querySelectorAll('.series-title').forEach(title => title.classList.toggle('dark-mode', isDark));
-    document.getElementById('themeToggle').classList.toggle('dark-mode', isDark);
-    const themeIcon = document.getElementById('themeIcon');
-    themeIcon.textContent = isDark ? '🌜' : '🌞';
-    localStorage.setItem('darkMode', isDark);
+
+// store the name of each theme, the class name to be added to the body, and an emoji to display
+const themes = {
+    light: { className: '', emoji: '🌞' },
+    dark: { className: 'dark-mode', emoji: '🌜' },
+    pocket: { className: 'pocket', emoji: '👜' }
+};
+
+var currentTheme = 'light';
+
+function cycleTheme(storedTheme) {
+    const themeKeys = Object.keys(themes);
+    let nextTheme = storedTheme && themes[storedTheme]
+        ? storedTheme
+        : themeKeys[(themeKeys.indexOf(currentTheme) + 1) % themeKeys.length];
+
+    // remove all theme classes and add the next theme class
+    document.body.className = themes[nextTheme].className;
+
+    // if mobile, keep the mobile class
+    if (mobileCheck())
+        document.body.classList.add('mobile');
+
+    document.getElementById('themeIcon').textContent = themes[nextTheme].emoji;
+    localStorage.setItem('storedTheme', nextTheme);
+    currentTheme = nextTheme;
 }
 
 // Load saved theme preference
-const savedTheme = localStorage.getItem('darkMode');
-if (savedTheme === 'true') {
-    toggleTheme(true);
+const savedTheme = localStorage.getItem('storedTheme');
+if (savedTheme && themes[savedTheme]) {
+    cycleTheme(savedTheme);
+} else {
+    cycleTheme(currentTheme);
 }
 
 document.getElementById('themeToggle').addEventListener('click', () => {
-    const isDark = !document.body.classList.contains('dark-mode');
-    toggleTheme(isDark);
+    cycleTheme();
 });
 //#endregion
 
@@ -546,6 +565,8 @@ function importCollection(data) {
                 counter.textContent = `(${cardSet.obtainedCards}/${cardSet.totalCards})`;
             }
         });
+
+        // TODO: Update set obtained counts
 
         alert('Collection imported successfully!');
     } catch (error) {
