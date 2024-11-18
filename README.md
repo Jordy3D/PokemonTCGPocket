@@ -42,6 +42,7 @@ Some examples:
 | `gen1;!ex`      | All cards from Generation 1 that are not EX cards.<br>NOTE: Disable the Series search to avoid filtering out Genetic Ap`ex`. Alternatively, use `gen1;! ex` instead. |
 | `!gen1`         | All cards that are not from Generation 1. |
 | `2s;trainer`    | All 2 Star rarity Trainer cards. |
+| `gen1;! ex;!1s;!2s;!3s;!promo` | All Generation 1 cards that are not some form of special card.<br> (Good for tracking progress to Mew!) |
 
 ## Data
 
