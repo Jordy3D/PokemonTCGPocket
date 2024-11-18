@@ -360,12 +360,12 @@ body::-webkit-scrollbar-thumb {
     .card-image {
         width: 100%;
         max-width: 40%;
-        aspect-ratio: 107.5 / 150;
+        aspect-ratio: 107.5 / 149;
 
         border-radius: 3px;
         transition: all 300ms ease-in-out;
         transform-style: preserve-3d;
-        position: relative; /* Ensure the pseudo-element is positioned correctly */
+        position: relative;
         display: flex;
         align-items: flex-start;
 
@@ -389,7 +389,7 @@ body::-webkit-scrollbar-thumb {
         &::before {
             content: "";
             position: absolute;
-            border-radius: 3px;
+            border-radius: 4px;
             top: 0;
             left: 0;
             right: 0;
@@ -717,13 +717,16 @@ body.pocket {
         }
 
         label {
-            box-shadow: 3px 3px 8px 4px var(--shadow), -2px -2px 8px 4px white;
+            box-shadow: 0 0 1px 1px var(--card-bg),
+                3px 3px 8px 4px var(--shadow), -2px -2px 8px 4px white;
             border-color: #0000 !important;
 
             &.active {
-                background: #6F7D93;
+                background: #6f7d93;
                 font-weight: 400;
-    
+                box-shadow: 3px 3px 8px 4px var(--shadow),
+                    -2px -2px 8px 4px white;
+
                 color: white;
             }
             &:hover {
@@ -738,11 +741,10 @@ body.pocket {
         .select-with-invert {
             border-radius: 50px;
 
-            select 
-            {
+            select {
                 border: none;
-                background: #6F7D93;
-                color: white;
+                /* background: #6f7d93; */
+                /* color: white; */
             }
 
             label {
@@ -751,7 +753,8 @@ body.pocket {
             }
 
             /* font-weight: 600; */
-            box-shadow: 3px 3px 8px 4px var(--shadow);
+            box-shadow: 0 0 1px 1px var(--card-bg),
+                3px 3px 8px 4px var(--shadow), -2px -2px 8px 4px white;
 
             &:hover {
                 background: var(--shadow);
@@ -768,7 +771,8 @@ body.pocket {
         color: var(--text);
         padding: 0.5rem;
         border-radius: 50px;
-        box-shadow: inset 3px 3px 8px 4px var(--shadow), inset -2px -2px 8px 4px white;
+        box-shadow: inset 3px 3px 8px 4px var(--shadow),
+            inset -2px -2px 8px 4px white;
 
         font-size: 0.9rem;
         width: 160px;
@@ -779,14 +783,16 @@ body.pocket {
         .subseries-badge {
             background: var(--card-bg);
             color: var(--text);
-            box-shadow: inset 3px 3px 4px 2px var(--shadow), inset -2px -2px 8px 4px white;
+            box-shadow: inset 3px 3px 4px 2px var(--shadow),
+                inset -2px -2px 8px 4px white;
         }
 
         &.obtained {
             .subseries-badge {
                 background: var(--success);
                 color: white;
-                box-shadow: inset 3px 3px 4px 2px #0002, inset -2px -2px 4px 2px #fff2;
+                box-shadow: inset 3px 3px 4px 2px #0002,
+                    inset -2px -2px 4px 2px #fff2;
             }
         }
     }
@@ -858,7 +864,6 @@ body.pocket {
         transform: none !important;
     }
 }
-/*#endregion*/
 
 body:not(.mobile) {
     #searchToggle,
@@ -1115,3 +1120,5 @@ body.mobile {
         cursor: pointer;
     }
 }
+
+/*#endregion*/
