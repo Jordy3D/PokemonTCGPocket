@@ -2990,6 +2990,1669 @@
         ]
     },
     {
+        "codename": "A2",
+        "seriesName": "Space-Time Smackdown",
+        "normalCardCount": 155,
+        "cards": [
+            {
+                "number": "1",
+                "name": "Oddish",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 1
+            },
+            {
+                "number": "2",
+                "name": "Gloom",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 1
+            },
+            {
+                "number": "3",
+                "name": "Bellossom",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Grass",
+                "generation": 2
+            },
+            {
+                "number": "4",
+                "name": "Tangela",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 1
+            },
+            {
+                "number": "5",
+                "name": "Tangrowth",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "6",
+                "name": "Yanma",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 2
+            },
+            {
+                "number": "7",
+                "name": "Yanmega ex",
+                "subseries": "Dialga",
+                "rarity": "4d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "8",
+                "name": "Roselia",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 3
+            },
+            {
+                "number": "9",
+                "name": "Roserade",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "10",
+                "name": "Turtwig",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "11",
+                "name": "Grotle",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "12",
+                "name": "Torterra",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "13",
+                "name": "Kricketot",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "14",
+                "name": "Kricketune",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "15",
+                "name": "Burmy",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "16",
+                "name": "Wormadam",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "17",
+                "name": "Combee",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "18",
+                "name": "Vespiquen",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "19",
+                "name": "Carnivine",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "20",
+                "name": "Leafeon",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "21",
+                "name": "Mow Rotom",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "22",
+                "name": "Shaymin",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "23",
+                "name": "Magmar",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Fire",
+                "generation": 1
+            },
+            {
+                "number": "24",
+                "name": "Magmortar",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Fire",
+                "generation": 4
+            },
+            {
+                "number": "25",
+                "name": "Slugma",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Fire",
+                "generation": 2
+            },
+            {
+                "number": "26",
+                "name": "Magcargo",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Fire",
+                "generation": 2
+            },
+            {
+                "number": "27",
+                "name": "Chimchar",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Fire",
+                "generation": 4
+            },
+            {
+                "number": "28",
+                "name": "Monferno",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Fire",
+                "generation": 4
+            },
+            {
+                "number": "29",
+                "name": "Infernape ex",
+                "subseries": "Palkia",
+                "rarity": "4d",
+                "type": "Fire",
+                "generation": 4
+            },
+            {
+                "number": "30",
+                "name": "Heat Rotom",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Fire",
+                "generation": 4
+            },
+            {
+                "number": "31",
+                "name": "Swinub",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Water",
+                "generation": 2
+            },
+            {
+                "number": "32",
+                "name": "Piloswine",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Water",
+                "generation": 2
+            },
+            {
+                "number": "33",
+                "name": "Mamoswine",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "34",
+                "name": "Regice",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Water",
+                "generation": 3
+            },
+            {
+                "number": "35",
+                "name": "Piplup",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "36",
+                "name": "Prinplup",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "37",
+                "name": "Empoleon",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "38",
+                "name": "Buizel",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "39",
+                "name": "Floatzel",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "40",
+                "name": "Shellos",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "41",
+                "name": "Gastrodon",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "42",
+                "name": "Finneon",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "43",
+                "name": "Lumineon",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "44",
+                "name": "Snover",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "45",
+                "name": "Abomasnow",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "46",
+                "name": "Glaceon",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "47",
+                "name": "Wash Rotom",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "48",
+                "name": "Frost Rotom",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "49",
+                "name": "Palkia ex",
+                "subseries": "Palkia",
+                "rarity": "4d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "50",
+                "name": "Manaphy",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "51",
+                "name": "Magnemite",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Electric",
+                "generation": 1
+            },
+            {
+                "number": "52",
+                "name": "Magneton",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Electric",
+                "generation": 1
+            },
+            {
+                "number": "53",
+                "name": "Magnezone",
+                "subseries": "",
+                "rarity": "3d",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "54",
+                "name": "Voltorb",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Electric",
+                "generation": 1
+            },
+            {
+                "number": "55",
+                "name": "Electrode",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Electric",
+                "generation": 1
+            },
+            {
+                "number": "56",
+                "name": "Electabuzz",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Electric",
+                "generation": 1
+            },
+            {
+                "number": "57",
+                "name": "Electivire",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "58",
+                "name": "Shinx",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "59",
+                "name": "Luxio",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "60",
+                "name": "Luxray",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "61",
+                "name": "Pachirisu ex",
+                "subseries": "Dialga",
+                "rarity": "4d",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "62",
+                "name": "Rotom",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "63",
+                "name": "Togepi",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Psychic",
+                "generation": 2
+            },
+            {
+                "number": "64",
+                "name": "Togetic",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Psychic",
+                "generation": 2
+            },
+            {
+                "number": "65",
+                "name": "Togekiss",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "66",
+                "name": "Misdreavus",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Psychic",
+                "generation": 2
+            },
+            {
+                "number": "67",
+                "name": "Mismagius ex",
+                "subseries": "Palkia",
+                "rarity": "4d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "68",
+                "name": "Ralts",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Psychic",
+                "generation": 3
+            },
+            {
+                "number": "69",
+                "name": "Kirlia",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Psychic",
+                "generation": 3
+            },
+            {
+                "number": "70",
+                "name": "Duskull",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Psychic",
+                "generation": 3
+            },
+            {
+                "number": "71",
+                "name": "Dusclops",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Psychic",
+                "generation": 3
+            },
+            {
+                "number": "72",
+                "name": "Dusknoir",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "73",
+                "name": "Drifloon",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "74",
+                "name": "Drifblim",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "75",
+                "name": "Uxie",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "76",
+                "name": "Mesprit",
+                "subseries": "",
+                "rarity": "3d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "77",
+                "name": "Azelf",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "78",
+                "name": "Giratina",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "79",
+                "name": "Cresselia",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "80",
+                "name": "Rhyhorn",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Fighting",
+                "generation": 1
+            },
+            {
+                "number": "81",
+                "name": "Rhydon",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Fighting",
+                "generation": 1
+            },
+            {
+                "number": "82",
+                "name": "Rhyperior",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "83",
+                "name": "Gligar",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Fighting",
+                "generation": 2
+            },
+            {
+                "number": "84",
+                "name": "Gliscor",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "85",
+                "name": "Hitmontop",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Fighting",
+                "generation": 2
+            },
+            {
+                "number": "86",
+                "name": "Nosepass",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Fighting",
+                "generation": 3
+            },
+            {
+                "number": "87",
+                "name": "Regirock",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Fighting",
+                "generation": 3
+            },
+            {
+                "number": "88",
+                "name": "Cranidos",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "89",
+                "name": "Rampardos",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "90",
+                "name": "Wormadam",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "91",
+                "name": "Riolu",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "92",
+                "name": "Lucario",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "93",
+                "name": "Hippopotas",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "94",
+                "name": "Hippowdon",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "95",
+                "name": "Gallade ex",
+                "subseries": "Dialga",
+                "rarity": "4d",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "96",
+                "name": "Murkrow",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Darkness",
+                "generation": 2
+            },
+            {
+                "number": "97",
+                "name": "Honchkrow",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "98",
+                "name": "Sneasel",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Darkness",
+                "generation": 2
+            },
+            {
+                "number": "99",
+                "name": "Weavile ex",
+                "subseries": "Palkia",
+                "rarity": "4d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "100",
+                "name": "Poochyena",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Darkness",
+                "generation": 3
+            },
+            {
+                "number": "101",
+                "name": "Mightyena",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Darkness",
+                "generation": 3
+            },
+            {
+                "number": "102",
+                "name": "Stunky",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "103",
+                "name": "Skuntank",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "104",
+                "name": "Spiritomb",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "105",
+                "name": "Skorupi",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "106",
+                "name": "Drapion",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "107",
+                "name": "Croagunk",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "108",
+                "name": "Toxicroak",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "109",
+                "name": "Darkrai",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "110",
+                "name": "Darkrai ex",
+                "subseries": "Dialga",
+                "rarity": "4d",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "111",
+                "name": "Skarmory",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Metal",
+                "generation": 2
+            },
+            {
+                "number": "112",
+                "name": "Registeel",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Metal",
+                "generation": 3
+            },
+            {
+                "number": "113",
+                "name": "Shieldon",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "114",
+                "name": "Bastiodon",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "115",
+                "name": "Wormadam",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "116",
+                "name": "Bronzor",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "117",
+                "name": "Bronzong",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "118",
+                "name": "Probopass",
+                "subseries": "",
+                "rarity": "2d",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "119",
+                "name": "Dialga ex",
+                "subseries": "Dialga",
+                "rarity": "4d",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "120",
+                "name": "Heatran",
+                "subseries": "Dialga",
+                "rarity": "3d",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "121",
+                "name": "Gible",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Dragon",
+                "generation": 4
+            },
+            {
+                "number": "122",
+                "name": "Gabite",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Dragon",
+                "generation": 4
+            },
+            {
+                "number": "123",
+                "name": "Garchomp",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Dragon",
+                "generation": 4
+            },
+            {
+                "number": "124",
+                "name": "Lickitung",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 1
+            },
+            {
+                "number": "125",
+                "name": "Lickilicky ex",
+                "subseries": "Palkia",
+                "rarity": "4d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "126",
+                "name": "Eevee",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 1
+            },
+            {
+                "number": "127",
+                "name": "Porygon",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 1
+            },
+            {
+                "number": "128",
+                "name": "Porygon2",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Colorless",
+                "generation": 2
+            },
+            {
+                "number": "129",
+                "name": "Porygon-Z",
+                "subseries": "Palkia",
+                "rarity": "3d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "130",
+                "name": "Aipom",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 2
+            },
+            {
+                "number": "131",
+                "name": "Ambipom",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "132",
+                "name": "Starly",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "133",
+                "name": "Staravia",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "134",
+                "name": "Staraptor",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "135",
+                "name": "Bidoof",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "136",
+                "name": "Bibarel",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "137",
+                "name": "Buneary",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "138",
+                "name": "Lopunny",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "139",
+                "name": "Glameow",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "140",
+                "name": "Purugly",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "141",
+                "name": "Chatot",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "142",
+                "name": "Fan Rotom",
+                "subseries": "",
+                "rarity": "1d",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "143",
+                "name": "Regigigas",
+                "subseries": "",
+                "rarity": "3d",
+                "type": "Colorless",
+                "generation": 3
+            },
+            {
+                "number": "144",
+                "name": "Skull Fossil",
+                "subseries": "Dialga",
+                "rarity": "1d",
+                "type": "Item",
+                "generation": 4
+            },
+            {
+                "number": "145",
+                "name": "Armor Fossil",
+                "subseries": "Palkia",
+                "rarity": "1d",
+                "type": "Item",
+                "generation": 4
+            },
+            {
+                "number": "146",
+                "name": "Pok\u00e9mon Communication",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Item",
+                "generation": -1
+            },
+            {
+                "number": "147",
+                "name": "Giant Cape",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Tool",
+                "generation": -1
+            },
+            {
+                "number": "148",
+                "name": "Rocky Helmet",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Tool",
+                "generation": -1
+            },
+            {
+                "number": "149",
+                "name": "Lum Berry",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Tool",
+                "generation": -1
+            },
+            {
+                "number": "150",
+                "name": "Cyrus",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "151",
+                "name": "Team Galactic Grunt",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "152",
+                "name": "Cynthia",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "153",
+                "name": "Volkner",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "154",
+                "name": "Dawn",
+                "subseries": "Dialga",
+                "rarity": "2d",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "155",
+                "name": "Mars",
+                "subseries": "Palkia",
+                "rarity": "2d",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "156",
+                "name": "Tangrowth",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "157",
+                "name": "Combee",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "158",
+                "name": "Carnivine",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "159",
+                "name": "Shaymin",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "160",
+                "name": "Mamoswine",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "161",
+                "name": "Gastrodon",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "162",
+                "name": "Manaphy",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "163",
+                "name": "Shinx",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "164",
+                "name": "Rotom",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "165",
+                "name": "Drifloon",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "166",
+                "name": "Mesprit",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "167",
+                "name": "Giratina",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "168",
+                "name": "Cresselia",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "169",
+                "name": "Rhyperior",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "170",
+                "name": "Lucario",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "171",
+                "name": "Hippopotas",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "172",
+                "name": "Spiritomb",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "173",
+                "name": "Croagunk",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "174",
+                "name": "Heatran",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "175",
+                "name": "Garchomp",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Dragon",
+                "generation": 4
+            },
+            {
+                "number": "176",
+                "name": "Staraptor",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "177",
+                "name": "Bidoof",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "178",
+                "name": "Glameow",
+                "subseries": "Palkia",
+                "rarity": "1s",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "179",
+                "name": "Regigigas",
+                "subseries": "Dialga",
+                "rarity": "1s",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "180",
+                "name": "Yanmega ex",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "181",
+                "name": "Infernape ex",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Fire",
+                "generation": 4
+            },
+            {
+                "number": "182",
+                "name": "Palkia ex",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "183",
+                "name": "Pachirisu ex",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "184",
+                "name": "Mismagius ex",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "185",
+                "name": "Gallade ex",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "186",
+                "name": "Weavile ex",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "187",
+                "name": "Darkrai ex",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "188",
+                "name": "Dialga ex",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "189",
+                "name": "Lickilicky ex",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "190",
+                "name": "Cyrus",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "191",
+                "name": "Team Galactic Grunt",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "192",
+                "name": "Cynthia",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "193",
+                "name": "Volkner",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "194",
+                "name": "Dawn",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "195",
+                "name": "Mars",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Trainer",
+                "generation": 4
+            },
+            {
+                "number": "196",
+                "name": "Yanmega ex",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "197",
+                "name": "Infernape ex",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Fire",
+                "generation": 4
+            },
+            {
+                "number": "198",
+                "name": "Pachirisu ex",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "199",
+                "name": "Mismagius ex",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Psychic",
+                "generation": 4
+            },
+            {
+                "number": "200",
+                "name": "Gallade ex",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "201",
+                "name": "Weavile ex",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "202",
+                "name": "Darkrai ex",
+                "subseries": "Dialga",
+                "rarity": "2s",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "203",
+                "name": "Lickilicky ex",
+                "subseries": "Palkia",
+                "rarity": "2s",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "204",
+                "name": "Palkia ex",
+                "subseries": "Palkia",
+                "rarity": "3s",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "205",
+                "name": "Dialga ex",
+                "subseries": "Dialga",
+                "rarity": "3s",
+                "type": "Metal",
+                "generation": 4
+            },
+            {
+                "number": "206",
+                "name": "Palkia ex",
+                "subseries": "",
+                "rarity": "1c",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "207",
+                "name": "Dialga ex",
+                "subseries": "",
+                "rarity": "1c",
+                "type": "Metal",
+                "generation": 4
+            }
+        ]
+    },
+    {
         "codename": "P-A",
         "seriesName": "Promo-A",
         "normalCardCount": 0,
@@ -3257,6 +4920,70 @@
                 "rarity": "PROMO",
                 "type": "Water",
                 "generation": 1
+            },
+            {
+                "number": "34",
+                "name": "Piplup",
+                "subseries": "Missions",
+                "rarity": "PROMO",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "35",
+                "name": "Turtwig",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "36",
+                "name": "Electivire",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Electric",
+                "generation": 4
+            },
+            {
+                "number": "37",
+                "name": "Cresselia",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "38",
+                "name": "Misdreavus",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Psychic",
+                "generation": 2
+            },
+            {
+                "number": "39",
+                "name": "Skarmory",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Metal",
+                "generation": 2
+            },
+            {
+                "number": "40",
+                "name": "Chimchar",
+                "subseries": "Wonder Pick",
+                "rarity": "PROMO",
+                "type": "Fire",
+                "generation": 4
+            },
+            {
+                "number": "41",
+                "name": "Togepi",
+                "subseries": "Wonder Pick",
+                "rarity": "PROMO",
+                "type": "Psychic",
+                "generation": 2
             }
         ]
     }

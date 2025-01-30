@@ -71,7 +71,15 @@ class Card {
             rarity = this.rarity.toLowerCase();
         }
         let type = this.type;
-        if (type == "Trainer")
+
+        const invalid_types = [
+            "Trainer",
+            "Supporter",
+            "Item",
+            "Tool"
+        ]
+
+        if (invalid_types.includes(type))
             type = '';
 
         if (type != '' || type != null) {
