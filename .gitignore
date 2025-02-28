@@ -2,3 +2,5 @@
 data/process.py
 data/raw.txt
 RUN.bat
+data/extract.py
+data/gens.json
