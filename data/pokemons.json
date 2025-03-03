@@ -5767,6 +5767,70 @@
                 "rarity": "PROMO",
                 "type": "Psychic",
                 "generation": 2
+            },
+            {
+                "number": "42",
+                "name": "Darkrai ex",
+                "subseries": "Missions",
+                "rarity": "PROMO",
+                "type": "Darkness",
+                "generation": 4
+            },
+            {
+                "number": "43",
+                "name": "Cherrim",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Grass",
+                "generation": 4
+            },
+            {
+                "number": "44",
+                "name": "Raichu",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Electric",
+                "generation": 1
+            },
+            {
+                "number": "45",
+                "name": "Nosepass",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Fighting",
+                "generation": 3
+            },
+            {
+                "number": "46",
+                "name": "Gible",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Fighting",
+                "generation": 4
+            },
+            {
+                "number": "47",
+                "name": "Staraptor",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Colorless",
+                "generation": 4
+            },
+            {
+                "number": "48",
+                "name": "Manaphy",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Water",
+                "generation": 4
+            },
+            {
+                "number": "49",
+                "name": "Snorlax",
+                "subseries": "Promo Pack",
+                "rarity": "PROMO",
+                "type": "Colorless",
+                "generation": 1
             }
         ]
     }

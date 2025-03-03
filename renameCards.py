@@ -7,7 +7,23 @@ with open('data/pokemons.json') as f:
     pokemons = json.load(f)
     
     
-target_series = 'Triumphant Light'
+# find all the different series names from pokemons
+series_names = []
+for pokemon in pokemons:
+    if pokemon['seriesName'] not in series_names:
+        series_names.append(pokemon['seriesName'])
+    
+# print all the series names and let the user choose one
+print('Series Names:')
+for i, name in enumerate(series_names):
+    print(f'{i+1}. {name}')
+    
+series_index = int(input('Enter the index of the series you want to rename: ')) - 1
+if series_index < 0 or series_index >= len(series_names):
+    print('Invalid index')
+    sys.exit(1)    
+    
+target_series = list(series_names)[series_index]
 target_series_lower = target_series.lower().replace(' ', '-')
     
 # load all the cards from images/cards/space-time-smackdown

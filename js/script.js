@@ -137,6 +137,7 @@ async function loadCards() {
 
 function displayCards() {
     const container = document.getElementById('cardContainer');
+    const collapsedSets = new Set(JSON.parse(localStorage.getItem('collapsedSets') || '[]'));
 
     for (var i = 0; i < sets.length; i++) {
         createSeries(sets[i]);
@@ -156,19 +157,25 @@ function displayCards() {
         const cardSetEl = document.createElement('div');
         cardSetEl.className = 'card-set';
         cardSetEl.id = series.codename;
-        cardSetEl.classList.toggle('active');
+        cardSetEl.classList.toggle('active', !collapsedSets.has(series.codename));
         container.appendChild(cardSetEl);
 
         titleEl.addEventListener('click', () => {
             cardSetEl.classList.toggle('active');
+
+            if (cardSetEl.classList.contains('active'))
+                collapsedSets.delete(series.codename);
+            else
+                collapsedSets.add(series.codename);
+
+            localStorage.setItem('collapsedSets', JSON.stringify([...collapsedSets]));
         });
 
         series.cards.forEach(card => {
             const cardEl = document.createElement('div');
             cardEl.className = 'card';
-            if (obtainedCards.has(`${series.codename}-${card.number}`)) {
+            if (obtainedCards.has(`${series.codename}-${card.number}`))
                 cardEl.classList.add('obtained');
-            }
 
             cardEl.innerHTML = card.generateCardDetailHTML();
 

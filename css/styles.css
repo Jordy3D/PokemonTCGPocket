@@ -204,6 +204,26 @@ body::-webkit-scrollbar-thumb {
 /*#endregion*/
 
 /*
+█▀▀ █▀█ █▀█ ▀█▀ █▀▀ █▀█ 
+█▀  █▄█ █▄█  █  ██▄ █▀▄ 
+*/
+/*#region Footer */
+footer {
+    background: var(--header-bg);
+    color: var(--header-text);
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+    box-shadow: 0 -2px 4px var(--shadow);
+
+    a {
+        color: var(--header-text);
+        text-decoration: none;
+        font-weight: 600;
+    }
+}
+
+/*
 █▀▄▀█ ▄▀█ █ █▄ █ 
 █ ▀ █ █▀█ █ █ ▀█ 
 */
@@ -214,7 +234,7 @@ body::-webkit-scrollbar-thumb {
     padding-top: 0;
     max-width: 1400px;
     margin: 0 auto;
-    padding-bottom: 200px;
+    /* padding-bottom: 200px; */
 
     .card-set {
         display: none;

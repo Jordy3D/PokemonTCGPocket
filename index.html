@@ -1,123 +1,206 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <title>Pokemon TCG Pocket Collection</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="css/styles.css" />
+        <link rel="stylesheet" href="css/magic.css" />
+        <!-- set favicon to images/favicon.png -->
+        <link rel="icon" type="image/png" href="images/favicon.png" />
+    </head>
 
-<head>
-    <title>Pokemon TCG Pocket Collection</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/styles.css">
-    <!-- set favicon to images/favicon.png -->
-    <link rel="icon" type="image/png" href="images/favicon.png">
-</head>
-
-<body>
-    <header class="header">
-        <div class="hero">
-            <img src="images/favicon.png" alt="Pokemon TCG Pocket Collection logo" class="header-logo">
-            <h1>Pokemon TCG Pocket Collection</h1>
-        </div>
-        <div class="header-button-container">
-            <button id="themeToggle" class="theme-toggle" aria-label="Cycle themes"
-                title="Cycle themes">
-                <span id="themeIcon" class="theme-icon">🌞</span>
-            </button>
-            <button id="viewToggle" class="display-mode-toggle" aria-label="Toggle binder/detail view"
-                title="Toggle binder/detail view">
-                <span id="displayIcon" class="display-icon">📖</span>
-            </button>
-            <button id="loadButton" class="load-button" aria-label="Load collection data" title="Load collection data">
-                <span id="loadIcon" class="load-icon">📂</span>
-            </button>
-            <button id="exportButton" class="export-button" aria-label="Export collection data" title="Export collection data">
-                <span id="exportIcon" class="export-icon">💾</span>
-            </button>
-        </div>
-    </header>
-    <button id="searchToggle" class="search-toggle">🔍</button>
-    <div id="dropZone" class="drop-zone">
-        <div class="drop-zone-content">
-            <span class="drop-icon">📥</span>
-            <p>Drop collection file here to import</p>
-        </div>
-    </div>
-    <div class="search-container">
-        <div class="search-header">
-            <div class="input-with-button">
-                <input type="text" id="searchBar" 
-                    placeholder="Search cards...">
-                <button id="clearSearch" class="clear-search" 
-                    aria-label="Clear search" title="Clear search">✕</button>
+    <body>
+        <header class="header">
+            <div class="hero">
+                <img
+                    src="images/favicon.png"
+                    alt="Pokemon TCG Pocket Collection logo"
+                    class="header-logo"
+                />
+                <h1>Pokemon TCG Pocket Collection</h1>
             </div>
-            <button class="search-close">✕</button>
-        </div>
-        <div class="search-filters">
-            <div class="filter-toggles">
-                <label class="active"><input type="checkbox" id="filterName" checked> Name</label>
-                <label class="active"><input type="checkbox" id="filterNumber" checked> Number</label>
-                <label class="active"><input type="checkbox" id="filterSeries" checked> Series</label>
-                <label class><input type="checkbox" id="filterSubseries"> Subseries</label>
-                <label class="active"><input type="checkbox" id="filterStatus" checked> Caught Status</label>
-                <label class="active"><input type="checkbox" id="filterRarity" checked> Rarity</label>
-                <label class="active"><input type="checkbox" id="filterType" checked> Type</label>
-                <label class="active"><input type="checkbox" id="filterGeneration" checked> Generation</label>
+            <div class="header-button-container">
+                <button
+                    id="themeToggle"
+                    class="theme-toggle"
+                    aria-label="Cycle themes"
+                    title="Cycle themes"
+                >
+                    <span id="themeIcon" class="theme-icon">🌞</span>
+                </button>
+                <button
+                    id="viewToggle"
+                    class="display-mode-toggle"
+                    aria-label="Toggle binder/detail view"
+                    title="Toggle binder/detail view"
+                >
+                    <span id="displayIcon" class="display-icon">📖</span>
+                </button>
+                <button
+                    id="loadButton"
+                    class="load-button"
+                    aria-label="Load collection data"
+                    title="Load collection data"
+                >
+                    <span id="loadIcon" class="load-icon">📂</span>
+                </button>
+                <button
+                    id="exportButton"
+                    class="export-button"
+                    aria-label="Export collection data"
+                    title="Export collection data"
+                >
+                    <span id="exportIcon" class="export-icon">💾</span>
+                </button>
             </div>
-            <div class="filter-selects">
-                <div class="select-with-invert">
-                    <!-- select dropdown with 1d,2d,3d,4d,1s,2s,3s,1c,promo displayed as 1 ♦, 2 ♦, 3 ♦, 4 ♦, 1 ★, 2 ★, 3 ★, 👑, PROMO -->
-                    <select id="filterRaritySelect">
-                        <option value="all">All Rarities</option>
-                        <option value="1d">♦</option>
-                        <option value="2d">♦ ♦</option>
-                        <option value="3d">♦ ♦ ♦</option>
-                        <option value="4d">♦ ♦ ♦ ♦</option>
-                        <option value="1s">★</option>
-                        <option value="2s">★★</option>
-                        <option value="3s">★★★</option>
-                        <option value="1c">👑</option>
-                        <option value="promo">PROMO</option>
-                    </select>
-                    <label class><input type="checkbox" id="invertRarity"> Invert</label>
-                </div>
-                <div class="select-with-invert">
-                    <!-- type dropdown with colorless, darkness, dragon, electric, fighting, fire, grass, metal, psychic, water, trainer -->
-                    <select id="filterTypeSelect">
-                        <option value="all">All Card Types</option>
-                        <option value="colorless">Colorless</option>
-                        <option value="darkness">Darkness</option>
-                        <option value="dragon">Dragon</option>
-                        <option value="electric">Electric</option>
-                        <option value="fighting">Fighting</option>
-                        <option value="fire">Fire</option>
-                        <option value="grass">Grass</option>
-                        <option value="metal">Metal</option>
-                        <option value="psychic">Psychic</option>
-                        <option value="water">Water</option>
-                        <option value="trainer">Trainer</option>
-                        <option value="tool">Tool</option>
-                    </select>
-                    <label class><input type="checkbox" id="invertType"> Invert</label>
-                </div>
-                <div class="select-with-invert">
-                    <!-- generation dropdown with gens 1-8, All, or No Generation -->
-                    <select id="filterGenerationSelect">
-                        <option value="all">All Generations</option>
-                        <option value="1">Generation 1</option>
-                        <option value="2">Generation 2</option>
-                        <option value="3">Generation 3</option>
-                        <option value="4">Generation 4</option>
-                        <option value="5">Generation 5</option>
-                        <option value="6">Generation 6</option>
-                        <option value="7">Generation 7</option>
-                        <option value="8">Generation 8</option>
-                        <option value="none">No Generation</option>
-                    </select>
-                    <label class><input type="checkbox" id="invertGeneration"> Invert</label>
+        </header>
+        <main>
+            <button id="searchToggle" class="search-toggle">🔍</button>
+            <div id="dropZone" class="drop-zone">
+                <div class="drop-zone-content">
+                    <span class="drop-icon">📥</span>
+                    <p>Drop collection file here to import</p>
                 </div>
             </div>
-            <span id="searchCount" class="search-count"></span>
-        </div>
-    </div>
-    <div class="sets-container" id="cardContainer" data-internal="true"></div>
-    <script src="js/script.js"></script>
-</body>
+            <div class="search-container">
+                <div class="search-header">
+                    <div class="input-with-button">
+                        <input
+                            type="text"
+                            id="searchBar"
+                            placeholder="Search cards..."
+                        />
+                        <button
+                            id="clearSearch"
+                            class="clear-search"
+                            aria-label="Clear search"
+                            title="Clear search"
+                        >
+                            ✕
+                        </button>
+                    </div>
+                    <button class="search-close">✕</button>
+                </div>
+                <div class="search-filters">
+                    <div class="filter-toggles">
+                        <label class="active"
+                            ><input type="checkbox" id="filterName" checked />
+                            Name</label
+                        >
+                        <label class="active"
+                            ><input type="checkbox" id="filterNumber" checked />
+                            Number</label
+                        >
+                        <label class="active"
+                            ><input type="checkbox" id="filterSeries" checked />
+                            Series</label
+                        >
+                        <label class
+                            ><input type="checkbox" id="filterSubseries" />
+                            Subseries</label
+                        >
+                        <label class="active"
+                            ><input type="checkbox" id="filterStatus" checked />
+                            Caught Status</label
+                        >
+                        <label class="active"
+                            ><input type="checkbox" id="filterRarity" checked />
+                            Rarity</label
+                        >
+                        <label class="active"
+                            ><input type="checkbox" id="filterType" checked />
+                            Type</label
+                        >
+                        <label class="active"
+                            ><input
+                                type="checkbox"
+                                id="filterGeneration"
+                                checked
+                            />
+                            Generation</label
+                        >
+                    </div>
+                    <div class="filter-selects">
+                        <div class="select-with-invert">
+                            <!-- select dropdown with 1d,2d,3d,4d,1s,2s,3s,1c,promo displayed as 1 ♦, 2 ♦, 3 ♦, 4 ♦, 1 ★, 2 ★, 3 ★, 👑, PROMO -->
+                            <select id="filterRaritySelect">
+                                <option value="all">All Rarities</option>
+                                <option value="1d">♦</option>
+                                <option value="2d">♦ ♦</option>
+                                <option value="3d">♦ ♦ ♦</option>
+                                <option value="4d">♦ ♦ ♦ ♦</option>
+                                <option value="1s">★</option>
+                                <option value="2s">★★</option>
+                                <option value="3s">★★★</option>
+                                <option value="1c">👑</option>
+                                <option value="promo">PROMO</option>
+                            </select>
+                            <label class
+                                ><input type="checkbox" id="invertRarity" />
+                                Invert</label
+                            >
+                        </div>
+                        <div class="select-with-invert">
+                            <!-- type dropdown with colorless, darkness, dragon, electric, fighting, fire, grass, metal, psychic, water, trainer -->
+                            <select id="filterTypeSelect">
+                                <option value="all">All Card Types</option>
+                                <option value="colorless">Colorless</option>
+                                <option value="darkness">Darkness</option>
+                                <option value="dragon">Dragon</option>
+                                <option value="electric">Electric</option>
+                                <option value="fighting">Fighting</option>
+                                <option value="fire">Fire</option>
+                                <option value="grass">Grass</option>
+                                <option value="metal">Metal</option>
+                                <option value="psychic">Psychic</option>
+                                <option value="water">Water</option>
+                                <option value="trainer">Trainer</option>
+                                <option value="tool">Tool</option>
+                            </select>
+                            <label class
+                                ><input type="checkbox" id="invertType" />
+                                Invert</label
+                            >
+                        </div>
+                        <div class="select-with-invert">
+                            <!-- generation dropdown with gens 1-8, All, or No Generation -->
+                            <select id="filterGenerationSelect">
+                                <option value="all">All Generations</option>
+                                <option value="1">Generation 1</option>
+                                <option value="2">Generation 2</option>
+                                <option value="3">Generation 3</option>
+                                <option value="4">Generation 4</option>
+                                <option value="5">Generation 5</option>
+                                <option value="6">Generation 6</option>
+                                <option value="7">Generation 7</option>
+                                <option value="8">Generation 8</option>
+                                <option value="none">No Generation</option>
+                            </select>
+                            <label class
+                                ><input type="checkbox" id="invertGeneration" />
+                                Invert</label
+                            >
+                        </div>
+                    </div>
+                    <span id="searchCount" class="search-count"></span>
+                </div>
+            </div>
+            <div
+                class="sets-container"
+                id="cardContainer"
+                data-internal="true"
+            ></div>
+        </main>
+        <footer>
+            <p>
+                Check out the source code at
+                <a href="https://github.com/Jordy3D/PokemonTCGPocket" target="_blank">GitHub</a>!
+            </p>
+        </footer>
 
+        <script src="js/script.js"></script>
+    </body>
 </html>
