@@ -6353,7 +6353,7 @@
             },
             {
                 "number": "2",
-                "name": "Alolan  Exeggutor",
+                "name": "Alolan Exeggutor",
                 "subseries": "",
                 "rarity": "3d",
                 "type": "Grass",
@@ -6553,7 +6553,7 @@
             },
             {
                 "number": "27",
-                "name": "Alolan  Marowak",
+                "name": "Alolan Marowak",
                 "subseries": "",
                 "rarity": "2d",
                 "type": "Fire",
@@ -6641,7 +6641,7 @@
             },
             {
                 "number": "38",
-                "name": "Alolan  Sandshrew",
+                "name": "Alolan Sandshrew",
                 "subseries": "",
                 "rarity": "1d",
                 "type": "Water",
@@ -6649,7 +6649,7 @@
             },
             {
                 "number": "39",
-                "name": "Alolan  Sandslash",
+                "name": "Alolan Sandslash",
                 "subseries": "",
                 "rarity": "2d",
                 "type": "Water",
@@ -6657,7 +6657,7 @@
             },
             {
                 "number": "40",
-                "name": "Alolan  Vulpix",
+                "name": "Alolan Vulpix",
                 "subseries": "",
                 "rarity": "1d",
                 "type": "Water",
@@ -6665,7 +6665,7 @@
             },
             {
                 "number": "41",
-                "name": "Alolan  Ninetales",
+                "name": "Alolan Ninetales",
                 "subseries": "",
                 "rarity": "3d",
                 "type": "Water",
@@ -6801,7 +6801,7 @@
             },
             {
                 "number": "58",
-                "name": "Alolan  Raichu ex",
+                "name": "Alolan Raichu ex",
                 "subseries": "",
                 "rarity": "4d",
                 "type": "Electric",
@@ -6809,7 +6809,7 @@
             },
             {
                 "number": "59",
-                "name": "Alolan  Geodude",
+                "name": "Alolan Geodude",
                 "subseries": "",
                 "rarity": "1d",
                 "type": "Electric",
@@ -6817,7 +6817,7 @@
             },
             {
                 "number": "60",
-                "name": "Alolan  Graveler",
+                "name": "Alolan Graveler",
                 "subseries": "",
                 "rarity": "2d",
                 "type": "Electric",
@@ -6825,7 +6825,7 @@
             },
             {
                 "number": "61",
-                "name": "Alolan  Golem",
+                "name": "Alolan Golem",
                 "subseries": "",
                 "rarity": "3d",
                 "type": "Electric",
@@ -7185,7 +7185,7 @@
             },
             {
                 "number": "106",
-                "name": "Alolan  Rattata",
+                "name": "Alolan Rattata",
                 "subseries": "",
                 "rarity": "1d",
                 "type": "Darkness",
@@ -7193,7 +7193,7 @@
             },
             {
                 "number": "107",
-                "name": "Alolan  Raticate",
+                "name": "Alolan Raticate",
                 "subseries": "",
                 "rarity": "2d",
                 "type": "Darkness",
@@ -7201,7 +7201,7 @@
             },
             {
                 "number": "108",
-                "name": "Alolan  Meowth",
+                "name": "Alolan Meowth",
                 "subseries": "",
                 "rarity": "1d",
                 "type": "Darkness",
@@ -7209,7 +7209,7 @@
             },
             {
                 "number": "109",
-                "name": "Alolan  Persian",
+                "name": "Alolan Persian",
                 "subseries": "",
                 "rarity": "3d",
                 "type": "Darkness",
@@ -7217,7 +7217,7 @@
             },
             {
                 "number": "110",
-                "name": "Alolan  Grimer",
+                "name": "Alolan Grimer",
                 "subseries": "",
                 "rarity": "1d",
                 "type": "Darkness",
@@ -7225,7 +7225,7 @@
             },
             {
                 "number": "111",
-                "name": "Alolan  Muk ex",
+                "name": "Alolan Muk ex",
                 "subseries": "",
                 "rarity": "4d",
                 "type": "Darkness",
@@ -7273,7 +7273,7 @@
             },
             {
                 "number": "117",
-                "name": "Alolan  Diglett",
+                "name": "Alolan Diglett",
                 "subseries": "",
                 "rarity": "1d",
                 "type": "Metal",
@@ -7281,7 +7281,7 @@
             },
             {
                 "number": "118",
-                "name": "Alolan  Dugtrio",
+                "name": "Alolan Dugtrio",
                 "subseries": "",
                 "rarity": "1d",
                 "type": "Metal",
@@ -7593,7 +7593,7 @@
             },
             {
                 "number": "156",
-                "name": "Alolan  Exeggutor",
+                "name": "Alolan Exeggutor",
                 "subseries": "",
                 "rarity": "1s",
                 "type": "Grass",
@@ -7625,7 +7625,7 @@
             },
             {
                 "number": "160",
-                "name": "Alolan  Marowak",
+                "name": "Alolan Marowak",
                 "subseries": "",
                 "rarity": "1s",
                 "type": "Fire",
@@ -7641,7 +7641,7 @@
             },
             {
                 "number": "162",
-                "name": "Alolan  Vulpix",
+                "name": "Alolan Vulpix",
                 "subseries": "",
                 "rarity": "1s",
                 "type": "Water",
@@ -7825,7 +7825,7 @@
             },
             {
                 "number": "185",
-                "name": "Alolan  Raichu ex",
+                "name": "Alolan Raichu ex",
                 "subseries": "",
                 "rarity": "",
                 "type": "Electric",
@@ -7849,7 +7849,7 @@
             },
             {
                 "number": "188",
-                "name": "Alolan  Muk ex",
+                "name": "Alolan Muk ex",
                 "subseries": "",
                 "rarity": "",
                 "type": "Darkness",
@@ -7977,7 +7977,7 @@
             },
             {
                 "number": "203",
-                "name": "Alolan  Raichu ex",
+                "name": "Alolan Raichu ex",
                 "subseries": "",
                 "rarity": "2s",
                 "type": "Electric",
@@ -8001,7 +8001,7 @@
             },
             {
                 "number": "206",
-                "name": "Alolan  Muk ex",
+                "name": "Alolan Muk ex",
                 "subseries": "",
                 "rarity": "2s",
                 "type": "Darkness",
