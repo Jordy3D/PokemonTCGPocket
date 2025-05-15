@@ -6339,1939 +6339,4241 @@
         ]
     },
     {
-        "codename": "A3",
         "seriesName": "Celestial Guardians",
+        "codename": "A3",
         "normalCardCount": 155,
         "cards": [
             {
                 "number": "1",
                 "name": "Exeggcute",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "2",
                 "name": "Alolan Exeggutor",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 150,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 4
+                },
                 "rarity": "3d",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "3",
                 "name": "Surskit",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 3
             },
             {
                 "number": "4",
                 "name": "Masquerain",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 0
+                },
                 "rarity": "2d",
-                "type": "Grass",
                 "generation": 3
             },
             {
                 "number": "5",
                 "name": "Maractus",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 5
             },
             {
                 "number": "6",
                 "name": "Karrablast",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 5
             },
             {
                 "number": "7",
                 "name": "Phantump",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 6
             },
             {
                 "number": "8",
                 "name": "Trevenant",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Grass",
                 "generation": 6
             },
             {
                 "number": "9",
                 "name": "Rowlet",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "10",
                 "name": "Rowlet",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "11",
                 "name": "Dartrix",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "12",
                 "name": "Decidueye ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 170,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "4d",
-                "type": "Grass",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "13",
                 "name": "Grubbin",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "14",
                 "name": "Fomantis",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "15",
                 "name": "Lurantis",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "16",
                 "name": "Morelull",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "17",
                 "name": "Shiinotic",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "18",
                 "name": "Bounsweet",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "19",
                 "name": "Steenee",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "20",
                 "name": "Tsareena",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "3d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "21",
                 "name": "Wimpod",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "1d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "22",
                 "name": "Golisopod",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 120,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "3d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "23",
                 "name": "Dhelmise ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "4d",
-                "type": "Grass",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "24",
                 "name": "Tapu Bulu",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 120,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "3d",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "25",
                 "name": "Growlithe",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Fire",
                 "generation": 1
             },
             {
                 "number": "26",
                 "name": "Arcanine",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Fire",
                 "generation": 1
             },
             {
                 "number": "27",
                 "name": "Alolan Marowak",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Fire",
                 "generation": 1
             },
             {
                 "number": "28",
                 "name": "Fletchinder",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fire",
                 "generation": 6
             },
             {
                 "number": "29",
                 "name": "Talonflame",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 120,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Fire",
                 "generation": 6
             },
             {
                 "number": "30",
                 "name": "Litten",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fire",
                 "generation": 7
             },
             {
                 "number": "31",
                 "name": "Litten",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fire",
                 "generation": 7
             },
             {
                 "number": "32",
                 "name": "Torracat",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Fire",
                 "generation": 7
             },
             {
                 "number": "33",
                 "name": "Incineroar ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "4d",
-                "type": "Fire",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "34",
                 "name": "Oricorio",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Fire",
                 "generation": 7
             },
             {
                 "number": "35",
                 "name": "Salandit",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fire",
                 "generation": 7
             },
             {
                 "number": "36",
                 "name": "Salazzle",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fire",
                 "generation": 7
             },
             {
                 "number": "37",
                 "name": "Turtonator",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 120,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 4
+                },
                 "rarity": "3d",
-                "type": "Fire",
                 "generation": 7
             },
             {
                 "number": "38",
                 "name": "Alolan Sandshrew",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "water",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "39",
                 "name": "Alolan Sandslash",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "water",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "40",
                 "name": "Alolan Vulpix",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "water",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "41",
                 "name": "Alolan Ninetales",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "water",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "42",
                 "name": "Shellder",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "43",
                 "name": "Cloyster",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "44",
                 "name": "Lapras",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "45",
                 "name": "Popplio",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "46",
                 "name": "Popplio",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "47",
                 "name": "Brionne",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "48",
                 "name": "Primarina",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "3d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "49",
                 "name": "Crabominable ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 160,
+                    "type": "water",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "4d",
-                "type": "Water",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "50",
                 "name": "Wishiwashi",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 30,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "51",
                 "name": "Wishiwashi ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 170,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "4d",
-                "type": "Water",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "52",
                 "name": "Dewpider",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "53",
                 "name": "Araquanid",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "54",
                 "name": "Pyukumuku",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "55",
                 "name": "Bruxish",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "56",
                 "name": "Tapu Fini",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "57",
                 "name": "Pikachu",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Electric",
                 "generation": 1
             },
             {
                 "number": "58",
                 "name": "Alolan Raichu ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "4d",
-                "type": "Electric",
                 "generation": 1
             },
             {
                 "number": "59",
                 "name": "Alolan Geodude",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Electric",
                 "generation": 1
             },
             {
                 "number": "60",
                 "name": "Alolan Graveler",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Electric",
                 "generation": 1
             },
             {
                 "number": "61",
                 "name": "Alolan Golem",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 160,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 4
+                },
                 "rarity": "3d",
-                "type": "Electric",
                 "generation": 1
             },
             {
                 "number": "62",
                 "name": "Helioptile",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Electric",
                 "generation": 6
             },
             {
                 "number": "63",
                 "name": "Heliolisk",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Electric",
                 "generation": 6
             },
             {
                 "number": "64",
                 "name": "Charjabug",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Electric",
                 "generation": 7
             },
             {
                 "number": "65",
                 "name": "Vikavolt",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Electric",
                 "generation": 7
             },
             {
                 "number": "66",
                 "name": "Oricorio",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Electric",
                 "generation": 7
             },
             {
                 "number": "67",
                 "name": "Togedemaru",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Electric",
                 "generation": 7
             },
             {
                 "number": "68",
                 "name": "Tapu Koko",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Electric",
                 "generation": 7
             },
             {
                 "number": "69",
                 "name": "Mr. Mime",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Psychic",
                 "generation": 1
             },
             {
                 "number": "70",
                 "name": "Sableye",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Psychic",
                 "generation": 3
             },
             {
                 "number": "71",
                 "name": "Spoink",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Psychic",
                 "generation": 3
             },
             {
                 "number": "72",
                 "name": "Grumpig",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Psychic",
                 "generation": 3
             },
             {
                 "number": "73",
                 "name": "Lunatone",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Psychic",
                 "generation": 3
             },
             {
                 "number": "74",
                 "name": "Shuppet",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Psychic",
                 "generation": 3
             },
             {
                 "number": "75",
                 "name": "Banette",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Psychic",
                 "generation": 3
             },
             {
                 "number": "76",
                 "name": "Oricorio",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "77",
                 "name": "Oricorio",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "78",
                 "name": "Cutiefly",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 30,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 0
+                },
                 "rarity": "1d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "79",
                 "name": "Ribombee",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 0
+                },
                 "rarity": "2d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "80",
                 "name": "Comfey",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "81",
                 "name": "Sandygast",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "82",
                 "name": "Palossand",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "3d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "83",
                 "name": "Mimikyu",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "84",
                 "name": "Tapu Lele",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "85",
                 "name": "Cosmog",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "86",
                 "name": "Cosmoem",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "87",
                 "name": "Lunala ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "4d",
-                "type": "Psychic",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "88",
                 "name": "Necrozma",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 120,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "3d",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "89",
                 "name": "Cubone",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fighting",
                 "generation": 1
             },
             {
                 "number": "90",
                 "name": "Makuhita",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Fighting",
                 "generation": 3
             },
             {
                 "number": "91",
                 "name": "Hariyama",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 120,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Fighting",
                 "generation": 3
             },
             {
                 "number": "92",
                 "name": "Solrock",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Fighting",
                 "generation": 3
             },
             {
                 "number": "93",
                 "name": "Drilbur",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fighting",
                 "generation": 5
             },
             {
                 "number": "94",
                 "name": "Timburr",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fighting",
                 "generation": 5
             },
             {
                 "number": "95",
                 "name": "Gurdurr",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Fighting",
                 "generation": 5
             },
             {
                 "number": "96",
                 "name": "Conkeldurr",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 150,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "3d",
-                "type": "Fighting",
                 "generation": 5
             },
             {
                 "number": "97",
                 "name": "Crabrawler",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "98",
                 "name": "Rockruff",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "99",
                 "name": "Rockruff",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "100",
                 "name": "Lycanroc",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "101",
                 "name": "Lycanroc",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "102",
                 "name": "Mudbray",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "103",
                 "name": "Mudsdale",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "104",
                 "name": "Passimian ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "4d",
-                "type": "Fighting",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "105",
                 "name": "Minior",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "106",
                 "name": "Alolan Rattata",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Darkness",
                 "generation": 1
             },
             {
                 "number": "107",
                 "name": "Alolan Raticate",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Darkness",
                 "generation": 1
             },
             {
                 "number": "108",
                 "name": "Alolan Meowth",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Darkness",
                 "generation": 1
             },
             {
                 "number": "109",
                 "name": "Alolan Persian",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Darkness",
                 "generation": 1
             },
             {
                 "number": "110",
                 "name": "Alolan Grimer",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Darkness",
                 "generation": 1
             },
             {
                 "number": "111",
                 "name": "Alolan Muk ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 160,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "4d",
-                "type": "Darkness",
                 "generation": 1
             },
             {
                 "number": "112",
                 "name": "Absol",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Darkness",
                 "generation": 3
             },
             {
                 "number": "113",
                 "name": "Trubbish",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Darkness",
                 "generation": 5
             },
             {
                 "number": "114",
                 "name": "Garbodor",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Darkness",
                 "generation": 5
             },
             {
                 "number": "115",
                 "name": "Mareanie",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Darkness",
                 "generation": 7
             },
             {
                 "number": "116",
-                "name": "Toxap ex",
-                "subseries": "",
+                "name": "Toxapex",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Darkness",
                 "generation": 7
             },
             {
                 "number": "117",
                 "name": "Alolan Diglett",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Metal",
                 "generation": 1
             },
             {
                 "number": "118",
                 "name": "Alolan Dugtrio",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Metal",
                 "generation": 1
             },
             {
                 "number": "119",
                 "name": "Excadrill",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Metal",
                 "generation": 5
             },
             {
                 "number": "120",
                 "name": "Escavalier",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2d",
-                "type": "Metal",
                 "generation": 5
             },
             {
                 "number": "121",
                 "name": "Klefki",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Metal",
                 "generation": 6
             },
             {
                 "number": "122",
                 "name": "Solgaleo ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "4d",
-                "type": "Metal",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "123",
                 "name": "Magearna",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "3d",
-                "type": "Metal",
                 "generation": 7
             },
             {
                 "number": "124",
                 "name": "Drampa",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "dragon",
+                    "weakness": null,
+                    "retreatCost": 2
+                },
                 "rarity": "3d",
-                "type": "Dragon",
                 "generation": 7
             },
             {
                 "number": "125",
                 "name": "Jangmo-o",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "dragon",
+                    "weakness": null,
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Dragon",
                 "generation": 7
             },
             {
                 "number": "126",
                 "name": "Hakamo-o",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "dragon",
+                    "weakness": null,
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Dragon",
                 "generation": 7
             },
             {
                 "number": "127",
                 "name": "Kommo-o",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 150,
+                    "type": "dragon",
+                    "weakness": null,
+                    "retreatCost": 2
+                },
                 "rarity": "3d",
-                "type": "Dragon",
                 "generation": 7
             },
             {
                 "number": "128",
                 "name": "Tauros",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Colorless",
                 "generation": 1
             },
             {
                 "number": "129",
                 "name": "Skitty",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Colorless",
                 "generation": 3
             },
             {
                 "number": "130",
                 "name": "Delcatty",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Colorless",
                 "generation": 3
             },
             {
                 "number": "131",
                 "name": "Fletchling",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Colorless",
                 "generation": 6
             },
             {
                 "number": "132",
                 "name": "Hawlucha",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2d",
-                "type": "Colorless",
                 "generation": 6
             },
             {
                 "number": "133",
                 "name": "Pikipek",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "134",
                 "name": "Trumbeak",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "135",
                 "name": "Toucannon",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "136",
                 "name": "Yungoos",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "137",
                 "name": "Gumshoos",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1d",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "138",
                 "name": "Stufful",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1d",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "139",
                 "name": "Bewear",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 150,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "3d",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "140",
                 "name": "Oranguru",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "3d",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "141",
                 "name": "Komala",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2d",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "142",
                 "name": "Big Malasada",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Trainer",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Colorless",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "143",
                 "name": "Fishing Net",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Trainer",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Colorless",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "144",
                 "name": "Rare Candy",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Trainer",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Colorless",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "145",
-                "name": "Rotom D ex",
-                "subseries": "",
+                "name": "Rotom Dex",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Trainer",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Colorless",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "146",
                 "name": "Poison Barb",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Pok\u00e9mon Tool",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Colorless",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "147",
                 "name": "Leaf Cape",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Pok\u00e9mon Tool",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Colorless",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "148",
                 "name": "Acerola",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "149",
                 "name": "Ilima",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "150",
                 "name": "Kiawe",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "151",
                 "name": "Guzma",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "152",
                 "name": "Lana",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "153",
                 "name": "Sophocles",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "154",
                 "name": "Mallow",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "155",
                 "name": "Lillie",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2d",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "156",
                 "name": "Alolan Exeggutor",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 150,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 4
+                },
                 "rarity": "1s",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "157",
                 "name": "Morelull",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "158",
                 "name": "Tsareena",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1s",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "159",
                 "name": "Tapu Bulu",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 120,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1s",
-                "type": "Grass",
                 "generation": 7
             },
             {
                 "number": "160",
                 "name": "Alolan Marowak",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 110,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1s",
-                "type": "Fire",
                 "generation": 1
             },
             {
                 "number": "161",
                 "name": "Turtonator",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 120,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 4
+                },
                 "rarity": "1s",
-                "type": "Fire",
                 "generation": 7
             },
             {
                 "number": "162",
                 "name": "Alolan Vulpix",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "water",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "163",
                 "name": "Pyukumuku",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "164",
                 "name": "Tapu Fini",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Water",
                 "generation": 7
             },
             {
                 "number": "165",
                 "name": "Oricorio",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Electric",
                 "generation": 7
             },
             {
                 "number": "166",
                 "name": "Tapu Koko",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Electric",
                 "generation": 7
             },
             {
                 "number": "167",
                 "name": "Cutiefly",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 30,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 0
+                },
                 "rarity": "1s",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "168",
                 "name": "Comfey",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "169",
                 "name": "Sandygast",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1s",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "170",
                 "name": "Tapu Lele",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "171",
                 "name": "Cosmog",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Psychic",
                 "generation": 7
             },
             {
                 "number": "172",
                 "name": "Rockruff",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "173",
                 "name": "Mudsdale",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "1s",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "174",
                 "name": "Minior",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Fighting",
                 "generation": 7
             },
             {
                 "number": "175",
                 "name": "Magearna",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Metal",
                 "generation": 7
             },
             {
                 "number": "176",
                 "name": "Drampa",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "dragon",
+                    "weakness": null,
+                    "retreatCost": 2
+                },
                 "rarity": "1s",
-                "type": "Dragon",
                 "generation": 7
             },
             {
                 "number": "177",
                 "name": "Pikipek",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1s",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "178",
                 "name": "Bewear",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 150,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "1s",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "179",
                 "name": "Komala",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1s",
-                "type": "Colorless",
                 "generation": 7
             },
             {
                 "number": "180",
                 "name": "Decidueye ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 170,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2s",
-                "type": "Grass",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "181",
                 "name": "Dhelmise ex",
-                "subseries": "",
-                "rarity": "3s",
-                "type": "Grass",
-                "generation": 1
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
+                "rarity": "2s",
+                "generation": 7
             },
             {
                 "number": "182",
                 "name": "Incineroar ex",
-                "subseries": "",
-                "rarity": "1c",
-                "type": "Fire",
-                "generation": 1
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
+                "rarity": "2s",
+                "generation": 7
             },
             {
                 "number": "183",
                 "name": "Crabominable ex",
-                "subseries": "",
-                "rarity": "",
-                "type": "Water",
-                "generation": 1
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 160,
+                    "type": "water",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
+                "rarity": "2s",
+                "generation": 7
             },
             {
                 "number": "184",
                 "name": "Wishiwashi ex",
-                "subseries": "",
-                "rarity": "",
-                "type": "Water",
-                "generation": 1
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 170,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
+                "rarity": "2s",
+                "generation": 7
             },
             {
                 "number": "185",
                 "name": "Alolan Raichu ex",
-                "subseries": "",
-                "rarity": "",
-                "type": "Electric",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
+                "rarity": "2s",
                 "generation": 1
             },
             {
                 "number": "186",
                 "name": "Lunala ex",
-                "subseries": "",
-                "rarity": "",
-                "type": "Psychic",
-                "generation": 1
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
+                "rarity": "2s",
+                "generation": 7
             },
             {
                 "number": "187",
                 "name": "Passimian ex",
-                "subseries": "",
-                "rarity": "",
-                "type": "Fighting",
-                "generation": 1
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
+                "rarity": "2s",
+                "generation": 7
             },
             {
                 "number": "188",
                 "name": "Alolan Muk ex",
-                "subseries": "",
-                "rarity": "",
-                "type": "Darkness",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 160,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
+                "rarity": "2s",
                 "generation": 1
             },
             {
                 "number": "189",
                 "name": "Solgaleo ex",
-                "subseries": "",
-                "rarity": "",
-                "type": "Metal",
-                "generation": 1
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
+                "rarity": "2s",
+                "generation": 7
             },
             {
                 "number": "190",
                 "name": "Acerola",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "191",
                 "name": "Ilima",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "192",
                 "name": "Kiawe",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "193",
                 "name": "Guzma",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "194",
                 "name": "Lana",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "195",
                 "name": "Sophocles",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "196",
                 "name": "Mallow",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "197",
                 "name": "Lillie",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "2s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "198",
                 "name": "Decidueye ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 170,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2s",
-                "type": "Grass",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "199",
                 "name": "Dhelmise ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2s",
-                "type": "Grass",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "200",
                 "name": "Incineroar ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "fire",
+                    "weakness": {
+                        "type": "water",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2s",
-                "type": "Fire",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "201",
                 "name": "Crabominable ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 160,
+                    "type": "water",
+                    "weakness": {
+                        "type": "metal",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2s",
-                "type": "Water",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "202",
                 "name": "Wishiwashi ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 170,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2s",
-                "type": "Water",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "203",
                 "name": "Alolan Raichu ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "electric",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2s",
-                "type": "Electric",
                 "generation": 1
             },
             {
                 "number": "204",
                 "name": "Lunala ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2s",
-                "type": "Psychic",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "205",
                 "name": "Passimian ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2s",
-                "type": "Fighting",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "206",
                 "name": "Alolan Muk ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 160,
+                    "type": "darkness",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2s",
-                "type": "Darkness",
                 "generation": 1
             },
             {
                 "number": "207",
                 "name": "Solgaleo ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2s",
-                "type": "Metal",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "208",
                 "name": "Guzma",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "3s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "209",
                 "name": "Lillie",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "type": "trainer",
+                    "cardType": "Supporter",
+                    "effect": ""
+                },
                 "rarity": "3s",
-                "type": "Trainer",
-                "subtype": "Supporter",
-                "generation": 1
+                "generation": -1
             },
             {
                 "number": "210",
                 "name": "Bulbasaur",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "211",
                 "name": "Ivysaur",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1r",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "212",
                 "name": "Venusaur",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 160,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "1r",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "213",
                 "name": "Exeggcute",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "214",
                 "name": "Exeggutor",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "1r",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "215",
                 "name": "Squirtle",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "216",
                 "name": "Wartortle",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "217",
                 "name": "Blastoise",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 150,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "1r",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "218",
                 "name": "Staryu",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 50,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "219",
                 "name": "Starmie",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 90,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 0
+                },
                 "rarity": "1r",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "220",
                 "name": "Gastly",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Psychic",
                 "generation": 1
             },
             {
                 "number": "221",
                 "name": "Haunter",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 80,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Psychic",
                 "generation": 1
             },
             {
                 "number": "222",
                 "name": "Gengar",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1r",
-                "type": "Psychic",
                 "generation": 1
             },
             {
                 "number": "223",
                 "name": "Machop",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 70,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1r",
-                "type": "Fighting",
                 "generation": 1
             },
             {
                 "number": "224",
                 "name": "Machoke",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1r",
-                "type": "Fighting",
                 "generation": 1
             },
             {
                 "number": "225",
                 "name": "Machamp",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 150,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "1r",
-                "type": "Fighting",
                 "generation": 1
             },
             {
                 "number": "226",
                 "name": "Cubone",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Fighting",
                 "generation": 1
             },
             {
                 "number": "227",
                 "name": "Marowak",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Fighting",
                 "generation": 1
             },
             {
                 "number": "228",
                 "name": "Jigglypuff",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 60,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1r",
-                "type": "Colorless",
                 "generation": 1
             },
             {
                 "number": "229",
                 "name": "Wigglytuff",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 100,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1r",
-                "type": "Colorless",
                 "generation": 1
             },
             {
                 "number": "230",
                 "name": "Venusaur ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 190,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2r",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "231",
                 "name": "Exeggutor ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 160,
+                    "type": "grass",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2r",
-                "type": "Grass",
                 "generation": 1
             },
             {
                 "number": "232",
                 "name": "Blastoise ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2r",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "233",
                 "name": "Starmie ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 130,
+                    "type": "water",
+                    "weakness": {
+                        "type": "electric",
+                        "value": 20
+                    },
+                    "retreatCost": 0
+                },
                 "rarity": "2r",
-                "type": "Water",
                 "generation": 1
             },
             {
                 "number": "234",
                 "name": "Gengar ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 170,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2r",
-                "type": "Psychic",
                 "generation": 1
             },
             {
                 "number": "235",
                 "name": "Machamp ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "psychic",
+                        "value": 20
+                    },
+                    "retreatCost": 3
+                },
                 "rarity": "2r",
-                "type": "Fighting",
                 "generation": 1
             },
             {
                 "number": "236",
                 "name": "Marowak ex",
-                "subseries": "",
+                "subseries": [
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "fighting",
+                    "weakness": {
+                        "type": "grass",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "2r",
-                "type": "Fighting",
                 "generation": 1
             },
             {
                 "number": "237",
                 "name": "Wigglytuff ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo"
+                ],
+                "details": {
+                    "hp": 140,
+                    "type": "colorless",
+                    "weakness": {
+                        "type": "fighting",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "2r",
-                "type": "Colorless",
                 "generation": 1
             },
             {
                 "number": "238",
                 "name": "Lunala ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "psychic",
+                    "weakness": {
+                        "type": "darkness",
+                        "value": 20
+                    },
+                    "retreatCost": 1
+                },
                 "rarity": "1c",
-                "type": "Psychic",
-                "generation": 1
+                "generation": 7
             },
             {
                 "number": "239",
                 "name": "Solgaleo ex",
-                "subseries": "",
+                "subseries": [
+                    "Solgaleo",
+                    "Lunala"
+                ],
+                "details": {
+                    "hp": 180,
+                    "type": "metal",
+                    "weakness": {
+                        "type": "fire",
+                        "value": 20
+                    },
+                    "retreatCost": 2
+                },
                 "rarity": "1c",
-                "type": "Metal",
-                "generation": 1
+                "generation": 7
             }
         ]
     },

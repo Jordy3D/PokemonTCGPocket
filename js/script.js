@@ -86,11 +86,23 @@ class Card {
             type = type.toLowerCase();
         }
 
+        // generate subseries badge
+        let subseriesBadge = '';
+        if (this.subseries && this.subseries.length == 1) {
+            subseriesBadge = `<span class="subseries-badge">${this.subseries}</span>`;
+        }
+
+        // generate type badge
+        // if it's a trainer card, set type to ''
+        if (this.type == 'trainer') {
+            type = '';
+        }
+
         return `
             <div class="card-details">
                 <h3>${this.name}</h3>
                 <p>#${this.number}</p>
-                ${this.subseries ? `<span class="subseries-badge">${this.subseries}</span>` : ''}
+                ${subseriesBadge}
                 <div class="card-badges">
                 ${type ? `<span class="type-badge ${type}"><img src="${urlBase}/type/${type}.webp" alt="${type} type" /></span>` : ''}
                 ${rarity ? `<span class="rarity-badge ${rarity}"><img src="${urlBase}/rarity/${rarity}.webp" alt="${rarity} rarity" /></span>` : ''}
@@ -120,6 +132,11 @@ async function loadCards() {
 
             var cards = [];
             series.cards.forEach(card => {
+                // check if the card has a details object
+                if (card.details) {
+                    card.type = card.details.type.toLowerCase();
+                }
+
                 let newCard = new Card(card.number, card.name, card.type, card.rarity, card.subseries, card.generation, series.seriesName);
                 cards.push(newCard);
             });
