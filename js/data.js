@@ -1,8 +1,8 @@
 var urlBase = "https://raw.githubusercontent.com/Jordy3D/PokemonTCGPocket/refs/heads/main/images"
 if (window.location.href.includes('localhost') || window.location.href.includes('127.0.0.1')) {
     console.log('Running on localhost');
-    urlBase = 'images';
 }
+urlBase = 'images';
 
 // █▀▀ █   ▄▀█ █▀ █▀ █▀▀ █▀ 
 // █▄▄ █▄▄ █▀█ ▄█ ▄█ ██▄ ▄█ 
@@ -46,6 +46,7 @@ class Card {
         this.seriesName = seriesName;
         this.imageName = this.generateImageName();
     }
+    
 
     generateImageName() {
         let imageName = `${urlBase}/cards/`;
@@ -103,7 +104,7 @@ class Card {
                 ${rarity ? `<span class="rarity-badge ${rarity}"><img src="${urlBase}/rarity/${rarity}.webp" alt="${rarity} rarity" /></span>` : ''}
                 </div>
             </div>
-            <div class="card-image" style='background-image: url(${this.imageName})'>
+            <div class="card-image" style='background-image: url("${this.imageName}")'>
                 <img src="${this.imageName}" alt="${this.name} card" />
             </div>
         `;
