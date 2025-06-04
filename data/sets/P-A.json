@@ -1,0 +1,738 @@
+{
+    "codename": "P-A",
+    "seriesName": "Promo-A",
+    "normalCardCount": 0,
+    "cards": [
+        {
+            "number": "1",
+            "name": "Potion",
+            "subseries": "Shop",
+            "rarity": "PROMO",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "2",
+            "name": "X Speed",
+            "subseries": "Shop",
+            "rarity": "PROMO",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "3",
+            "name": "Hand Scope",
+            "subseries": "Shop",
+            "rarity": "PROMO",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "4",
+            "name": "Pokedex",
+            "subseries": "Shop",
+            "rarity": "PROMO",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "5",
+            "name": "Poke Ball",
+            "subseries": "Shop",
+            "rarity": "PROMO",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "6",
+            "name": "Red Card",
+            "subseries": "Shop",
+            "rarity": "PROMO",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "7",
+            "name": "Professor's Research",
+            "subseries": "Shop",
+            "rarity": "PROMO",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "8",
+            "name": "Pokedex",
+            "subseries": "Campaign",
+            "rarity": "PROMO",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "9",
+            "name": "Pikachu ex",
+            "subseries": "Shop",
+            "rarity": "PROMO",
+            "type": "Electric",
+            "generation": 1
+        },
+        {
+            "number": "10",
+            "name": "Mewtwo",
+            "subseries": "Missions",
+            "rarity": "PROMO",
+            "type": "Psychic",
+            "generation": 1
+        },
+        {
+            "number": "11",
+            "name": "Chansey",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "12",
+            "name": "Meowth",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "13",
+            "name": "Butterfree",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Grass",
+            "generation": 1
+        },
+        {
+            "number": "14",
+            "name": "Lapras ex",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 1
+        },
+        {
+            "number": "15",
+            "name": "Pikachu",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Electric",
+            "generation": 1
+        },
+        {
+            "number": "16",
+            "name": "Clefairy",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Psychic",
+            "generation": 1
+        },
+        {
+            "number": "17",
+            "name": "Mankey",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "18",
+            "name": "Venusaur",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Grass",
+            "generation": 1
+        },
+        {
+            "number": "19",
+            "name": "Greninja",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 6
+        },
+        {
+            "number": "20",
+            "name": "Haunter",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Psychic",
+            "generation": 1
+        },
+        {
+            "number": "21",
+            "name": "Onix",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "22",
+            "name": "Jigglypuff",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "23",
+            "name": "Bulbasaur",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Grass",
+            "generation": 1
+        },
+        {
+            "number": "24",
+            "name": "Magnemite",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Electric",
+            "generation": 1
+        },
+        {
+            "number": "25",
+            "name": "Moltress ex",
+            "subseries": "Missions",
+            "rarity": "PROMO",
+            "type": "Fire",
+            "generation": 1
+        },
+        {
+            "number": "26",
+            "name": "Pikachu",
+            "subseries": "Campaign",
+            "rarity": "PROMO",
+            "type": "Electric",
+            "generation": 1
+        },
+        {
+            "number": "27",
+            "name": "Snivy",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Grass",
+            "generation": 5
+        },
+        {
+            "number": "28",
+            "name": "Volcarona",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Fire",
+            "generation": 5
+        },
+        {
+            "number": "29",
+            "name": "Blastoise",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 1
+        },
+        {
+            "number": "30",
+            "name": "Eevee",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "31",
+            "name": "Cinccino",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 5
+        },
+        {
+            "number": "32",
+            "name": "Charmander",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Fire",
+            "generation": 1
+        },
+        {
+            "number": "33",
+            "name": "Squirtle",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 1
+        },
+        {
+            "number": "34",
+            "name": "Piplup",
+            "subseries": "Missions",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 4
+        },
+        {
+            "number": "35",
+            "name": "Turtwig",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Grass",
+            "generation": 4
+        },
+        {
+            "number": "36",
+            "name": "Electivire",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Electric",
+            "generation": 4
+        },
+        {
+            "number": "37",
+            "name": "Cresselia",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 4
+        },
+        {
+            "number": "38",
+            "name": "Misdreavus",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Psychic",
+            "generation": 2
+        },
+        {
+            "number": "39",
+            "name": "Skarmory",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Metal",
+            "generation": 2
+        },
+        {
+            "number": "40",
+            "name": "Chimchar",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Fire",
+            "generation": 4
+        },
+        {
+            "number": "41",
+            "name": "Togepi",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Psychic",
+            "generation": 2
+        },
+        {
+            "number": "42",
+            "name": "Darkrai ex",
+            "subseries": "Missions",
+            "rarity": "PROMO",
+            "type": "Darkness",
+            "generation": 4
+        },
+        {
+            "number": "43",
+            "name": "Cherrim",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Grass",
+            "generation": 4
+        },
+        {
+            "number": "44",
+            "name": "Raichu",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Electric",
+            "generation": 1
+        },
+        {
+            "number": "45",
+            "name": "Nosepass",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Fighting",
+            "generation": 3
+        },
+        {
+            "number": "46",
+            "name": "Gible",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Fighting",
+            "generation": 4
+        },
+        {
+            "number": "47",
+            "name": "Staraptor",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 4
+        },
+        {
+            "number": "48",
+            "name": "Manaphy",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 4
+        },
+        {
+            "number": "49",
+            "name": "Snorlax",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "50",
+            "name": "Mewtwo ex",
+            "subseries": "Shop",
+            "rarity": "PROMO",
+            "type": "Psychic",
+            "generation": 1
+        },
+        {
+            "number": "51",
+            "name": "Cyclizar",
+            "subseries": "Missions",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 9
+        },
+        {
+            "number": "52",
+            "name": "Sprigatito",
+            "subseries": "Missions",
+            "rarity": "PROMO",
+            "type": "Grass",
+            "generation": 9
+        },
+        {
+            "number": "53",
+            "name": "Floatzel",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 4
+        },
+        {
+            "number": "54",
+            "name": "Pawmot",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Electric",
+            "generation": 9
+        },
+        {
+            "number": "55",
+            "name": "Machamp",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "56",
+            "name": "Ekans",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Darkness",
+            "generation": 1
+        },
+        {
+            "number": "57",
+            "name": "Bidoof",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 4
+        },
+        {
+            "number": "58",
+            "name": "Pachirisu",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Electric",
+            "generation": 4
+        },
+        {
+            "number": "59",
+            "name": "Riolu",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Fighting",
+            "generation": 4
+        },
+        {
+            "number": "60",
+            "name": "Exeggcute",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Grass",
+            "generation": 1
+        },
+        {
+            "number": "61",
+            "name": "Froakie",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 6
+        },
+        {
+            "number": "62",
+            "name": "Farfetch'd",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "63",
+            "name": "Rayquaza",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 3
+        },
+        {
+            "number": "64",
+            "name": "Rayquaza ex",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "65",
+            "name": "Rayquaza ex",
+            "subseries": "Missions",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "66",
+            "name": "Mimikyu",
+            "subseries": "Missions",
+            "rarity": "PROMO",
+            "type": "Psychic",
+            "generation": 7
+        },
+        {
+            "number": "67",
+            "name": "Cosmog",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Psychic",
+            "generation": 7
+        },
+        {
+            "number": "68",
+            "name": "Lycanroc",
+            "subseries": "Wonder Pick",
+            "rarity": "PROMO",
+            "type": "Fighting",
+            "generation": 7
+        },
+        {
+            "number": "69",
+            "name": "Alolan Exeggutor",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Grass",
+            "generation": 1
+        },
+        {
+            "number": "70",
+            "name": "Alolan Ninetales",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Water",
+            "generation": 1
+        },
+        {
+            "number": "71",
+            "name": "Crabrawler",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Fighting",
+            "generation": 7
+        },
+        {
+            "number": "72",
+            "name": "Alolan Grimer",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Darkness",
+            "generation": 1
+        },
+        {
+            "number": "73",
+            "name": "Toucannon",
+            "subseries": "Promo Pack",
+            "rarity": "PROMO",
+            "type": "Colorless",
+            "generation": 7
+        },
+        {
+            "number": "74",
+            "name": "Zeraora",
+            "subseries": [],
+            "details": {
+                "hp": 90,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "PROMO"
+        },
+        {
+            "number": "75",
+            "name": "Kartana",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "PROMO"
+        },
+        {
+            "number": "76",
+            "name": "Blacephalon",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "fire",
+                "weakness": {
+                    "type": "water",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "PROMO"
+        },
+        {
+            "number": "77",
+            "name": "Xurkitree",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "PROMO"
+        },
+        {
+            "number": "78",
+            "name": "Dawn Wings Necrozma",
+            "subseries": [],
+            "details": {
+                "hp": 110,
+                "type": "psychic",
+                "weakness": {
+                    "type": "darkness",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "PROMO"
+        },
+        {
+            "number": "79",
+            "name": "Dusk Mane Necrozma",
+            "subseries": [],
+            "details": {
+                "hp": 110,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "PROMO"
+        },
+        {
+            "number": "80",
+            "name": "Stakataka",
+            "subseries": [],
+            "details": {
+                "hp": 110,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 3
+            },
+            "rarity": "PROMO"
+        },
+        {
+            "number": "81",
+            "name": "Ultra Necrozma ex",
+            "subseries": [],
+            "details": {
+                "hp": 150,
+                "type": "dragon",
+                "weakness": null,
+                "retreatCost": 2
+            },
+            "rarity": "PROMO"
+        },
+        {
+            "number": "82",
+            "name": "Poipole",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "darkness",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "PROMO"
+        },
+        {
+            "number": "83",
+            "name": "Stufful",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "PROMO"
+        }
+    ]
+}

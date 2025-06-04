@@ -1,0 +1,1512 @@
+{
+    "seriesName": "Extradimensional Crisis",
+    "codename": "A3a",
+    "normalCardCount": 69,
+    "cards": [
+        {
+            "number": "1",
+            "name": "Petilil",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "2",
+            "name": "Lilligant",
+            "subseries": [],
+            "details": {
+                "hp": 110,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "3",
+            "name": "Rowlet",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "4",
+            "name": "Dartrix",
+            "subseries": [],
+            "details": {
+                "hp": 80,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "5",
+            "name": "Decidueye",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "3d"
+        },
+        {
+            "number": "6",
+            "name": "Buzzwole ex",
+            "subseries": [],
+            "details": {
+                "hp": 140,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "4d"
+        },
+        {
+            "number": "7",
+            "name": "Pheromosa",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "8",
+            "name": "Kartana",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "9",
+            "name": "Blacephalon",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "fire",
+                "weakness": {
+                    "type": "water",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "10",
+            "name": "Mantine",
+            "subseries": [],
+            "details": {
+                "hp": 90,
+                "type": "water",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "11",
+            "name": "Carvanha",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "water",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "12",
+            "name": "Sharpedo",
+            "subseries": [],
+            "details": {
+                "hp": 90,
+                "type": "water",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "13",
+            "name": "Shinx",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "14",
+            "name": "Luxio",
+            "subseries": [],
+            "details": {
+                "hp": 80,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "15",
+            "name": "Luxray",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "3d"
+        },
+        {
+            "number": "16",
+            "name": "Blitzle",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "17",
+            "name": "Zebstrika",
+            "subseries": [],
+            "details": {
+                "hp": 90,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "18",
+            "name": "Emolga",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "19",
+            "name": "Tapu Koko ex",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "4d"
+        },
+        {
+            "number": "20",
+            "name": "Xurkitree",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "21",
+            "name": "Zeraora",
+            "subseries": [],
+            "details": {
+                "hp": 90,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "3d"
+        },
+        {
+            "number": "22",
+            "name": "Clefairy",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "psychic",
+                "weakness": {
+                    "type": "metal",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "23",
+            "name": "Clefable",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "psychic",
+                "weakness": {
+                    "type": "metal",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "24",
+            "name": "Phantump",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "psychic",
+                "weakness": {
+                    "type": "darkness",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "25",
+            "name": "Trevenant",
+            "subseries": [],
+            "details": {
+                "hp": 120,
+                "type": "psychic",
+                "weakness": {
+                    "type": "darkness",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "26",
+            "name": "Morelull",
+            "subseries": [],
+            "details": {
+                "hp": 50,
+                "type": "psychic",
+                "weakness": {
+                    "type": "metal",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "27",
+            "name": "Shiinotic",
+            "subseries": [],
+            "details": {
+                "hp": 90,
+                "type": "psychic",
+                "weakness": {
+                    "type": "metal",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "3d"
+        },
+        {
+            "number": "28",
+            "name": "Meditite",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "fighting",
+                "weakness": {
+                    "type": "psychic",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "29",
+            "name": "Medicham",
+            "subseries": [],
+            "details": {
+                "hp": 90,
+                "type": "fighting",
+                "weakness": {
+                    "type": "psychic",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "30",
+            "name": "Baltoy",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "fighting",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "31",
+            "name": "Claydol",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "fighting",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "32",
+            "name": "Rockruff",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "fighting",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "33",
+            "name": "Lycanroc ex",
+            "subseries": [],
+            "details": {
+                "hp": 150,
+                "type": "fighting",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "4d"
+        },
+        {
+            "number": "34",
+            "name": "Passimian",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "fighting",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "35",
+            "name": "Sandygast",
+            "subseries": [],
+            "details": {
+                "hp": 80,
+                "type": "fighting",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "36",
+            "name": "Palossand",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "fighting",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 3
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "37",
+            "name": "Alolan Meowth",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "darkness",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "38",
+            "name": "Alolan Persian",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "darkness",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "39",
+            "name": "Sandile",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "darkness",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "40",
+            "name": "Krokorok",
+            "subseries": [],
+            "details": {
+                "hp": 90,
+                "type": "darkness",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "41",
+            "name": "Krookodile",
+            "subseries": [],
+            "details": {
+                "hp": 140,
+                "type": "darkness",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 3
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "42",
+            "name": "Nihilego",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "darkness",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "3d"
+        },
+        {
+            "number": "43",
+            "name": "Guzzlord ex",
+            "subseries": [],
+            "details": {
+                "hp": 170,
+                "type": "darkness",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 4
+            },
+            "rarity": "4d"
+        },
+        {
+            "number": "44",
+            "name": "Poipole",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "darkness",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "45",
+            "name": "Naganadel",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "darkness",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "3d"
+        },
+        {
+            "number": "46",
+            "name": "Alolan Diglett",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "47",
+            "name": "Alolan Dugtrio ex",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "4d"
+        },
+        {
+            "number": "48",
+            "name": "Aron",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "49",
+            "name": "Lairon",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 3
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "50",
+            "name": "Aggron",
+            "subseries": [],
+            "details": {
+                "hp": 160,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 4
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "51",
+            "name": "Ferroseed",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "52",
+            "name": "Ferrothorn",
+            "subseries": [],
+            "details": {
+                "hp": 110,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 3
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "53",
+            "name": "Stakataka",
+            "subseries": [],
+            "details": {
+                "hp": 110,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 3
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "54",
+            "name": "Lillipup",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "55",
+            "name": "Herdier",
+            "subseries": [],
+            "details": {
+                "hp": 80,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "56",
+            "name": "Stoutland",
+            "subseries": [],
+            "details": {
+                "hp": 140,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "57",
+            "name": "Stufful",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "58",
+            "name": "Bewear",
+            "subseries": [],
+            "details": {
+                "hp": 120,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 3
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "59",
+            "name": "Oranguru",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1d"
+        },
+        {
+            "number": "60",
+            "name": "Type: Null",
+            "subseries": [],
+            "details": {
+                "hp": 80,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "61",
+            "name": "Silvally",
+            "subseries": [],
+            "details": {
+                "hp": 110,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "3d"
+        },
+        {
+            "number": "62",
+            "name": "Celesteela",
+            "subseries": [],
+            "details": {
+                "hp": 120,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 4
+            },
+            "rarity": "3d"
+        },
+        {
+            "number": "63",
+            "name": "Beast Wall",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Trainer",
+                "effect": ""
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "64",
+            "name": "Repel",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Trainer",
+                "effect": ""
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "65",
+            "name": "Electrical Cord",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Pokémon Tool",
+                "effect": ""
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "66",
+            "name": "Beastite",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Pokémon Tool",
+                "effect": ""
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "67",
+            "name": "Gladion",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Supporter",
+                "effect": ""
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "68",
+            "name": "Looker",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Supporter",
+                "effect": ""
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "69",
+            "name": "Lusamine",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Supporter",
+                "effect": ""
+            },
+            "rarity": "2d"
+        },
+        {
+            "number": "70",
+            "name": "Rowlet",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1s"
+        },
+        {
+            "number": "71",
+            "name": "Pheromosa",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1s"
+        },
+        {
+            "number": "72",
+            "name": "Blacephalon",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "fire",
+                "weakness": {
+                    "type": "water",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1s"
+        },
+        {
+            "number": "73",
+            "name": "Alolan Meowth",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "darkness",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1s"
+        },
+        {
+            "number": "74",
+            "name": "Silvally",
+            "subseries": [],
+            "details": {
+                "hp": 110,
+                "type": "colorless",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1s"
+        },
+        {
+            "number": "75",
+            "name": "Celesteela",
+            "subseries": [],
+            "details": {
+                "hp": 120,
+                "type": "colorless",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 4
+            },
+            "rarity": "1s"
+        },
+        {
+            "number": "76",
+            "name": "Buzzwole ex",
+            "subseries": [],
+            "details": {
+                "hp": 140,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "77",
+            "name": "Tapu Koko ex",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "78",
+            "name": "Lycanroc ex",
+            "subseries": [],
+            "details": {
+                "hp": 150,
+                "type": "fighting",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "79",
+            "name": "Guzzlord ex",
+            "subseries": [],
+            "details": {
+                "hp": 170,
+                "type": "darkness",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 4
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "80",
+            "name": "Alolan Dugtrio ex",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "81",
+            "name": "Gladion",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Supporter",
+                "effect": ""
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "82",
+            "name": "Looker",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Supporter",
+                "effect": ""
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "83",
+            "name": "Lusamine",
+            "subseries": [],
+            "details": {
+                "type": "trainer",
+                "cardType": "Supporter",
+                "effect": ""
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "84",
+            "name": "Tapu Koko ex",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "electric",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "85",
+            "name": "Lycanroc ex",
+            "subseries": [],
+            "details": {
+                "hp": 150,
+                "type": "fighting",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "86",
+            "name": "Guzzlord ex",
+            "subseries": [],
+            "details": {
+                "hp": 170,
+                "type": "darkness",
+                "weakness": {
+                    "type": "grass",
+                    "value": 20
+                },
+                "retreatCost": 4
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "87",
+            "name": "Alolan Dugtrio ex",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "metal",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2s"
+        },
+        {
+            "number": "88",
+            "name": "Buzzwole ex",
+            "subseries": [],
+            "details": {
+                "hp": 140,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "3s"
+        },
+        {
+            "number": "89",
+            "name": "Growlithe",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "fire",
+                "weakness": {
+                    "type": "water",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "90",
+            "name": "Arcanine",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "fire",
+                "weakness": {
+                    "type": "water",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "91",
+            "name": "Froakie",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "water",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "92",
+            "name": "Frogadier",
+            "subseries": [],
+            "details": {
+                "hp": 80,
+                "type": "water",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "93",
+            "name": "Greninja",
+            "subseries": [],
+            "details": {
+                "hp": 120,
+                "type": "water",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "94",
+            "name": "Jynx",
+            "subseries": [],
+            "details": {
+                "hp": 80,
+                "type": "psychic",
+                "weakness": {
+                    "type": "darkness",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "95",
+            "name": "Pidgey",
+            "subseries": [],
+            "details": {
+                "hp": 60,
+                "type": "colorless",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "96",
+            "name": "Pidgeotto",
+            "subseries": [],
+            "details": {
+                "hp": 80,
+                "type": "colorless",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "97",
+            "name": "Pidgeot",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "colorless",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "98",
+            "name": "Aerodactyl",
+            "subseries": [],
+            "details": {
+                "hp": 100,
+                "type": "colorless",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1r"
+        },
+        {
+            "number": "99",
+            "name": "Celebi ex",
+            "subseries": [],
+            "details": {
+                "hp": 130,
+                "type": "grass",
+                "weakness": {
+                    "type": "fire",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2r"
+        },
+        {
+            "number": "100",
+            "name": "Arcanine ex",
+            "subseries": [],
+            "details": {
+                "hp": 150,
+                "type": "fire",
+                "weakness": {
+                    "type": "water",
+                    "value": 20
+                },
+                "retreatCost": 2
+            },
+            "rarity": "2r"
+        },
+        {
+            "number": "101",
+            "name": "Aerodactyl ex",
+            "subseries": [],
+            "details": {
+                "hp": 140,
+                "type": "colorless",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2r"
+        },
+        {
+            "number": "102",
+            "name": "Pidgeot ex",
+            "subseries": [],
+            "details": {
+                "hp": 170,
+                "type": "colorless",
+                "weakness": {
+                    "type": "electric",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "2r"
+        },
+        {
+            "number": "103",
+            "name": "Nihilego",
+            "subseries": [],
+            "details": {
+                "hp": 70,
+                "type": "darkness",
+                "weakness": {
+                    "type": "fighting",
+                    "value": 20
+                },
+                "retreatCost": 1
+            },
+            "rarity": "1c"
+        }
+    ]
+}

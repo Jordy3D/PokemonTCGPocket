@@ -1,0 +1,695 @@
+{
+    "codename": "A1a",
+    "seriesName": "Mythical Island",
+    "normalCardCount": 68,
+    "cards": [
+        {
+            "number": "1",
+            "name": "Exeggcute",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Grass",
+            "generation": 1
+        },
+        {
+            "number": "2",
+            "name": "Exeggutor",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Grass",
+            "generation": 1
+        },
+        {
+            "number": "3",
+            "name": "Celebi ex",
+            "subseries": "",
+            "rarity": "4d",
+            "type": "Grass",
+            "generation": 2
+        },
+        {
+            "number": "4",
+            "name": "Snivy",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Grass",
+            "generation": 5
+        },
+        {
+            "number": "5",
+            "name": "Servine",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Grass",
+            "generation": 5
+        },
+        {
+            "number": "6",
+            "name": "Serperior",
+            "subseries": "",
+            "rarity": "3d",
+            "type": "Grass",
+            "generation": 5
+        },
+        {
+            "number": "7",
+            "name": "Morelull",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Grass",
+            "generation": 7
+        },
+        {
+            "number": "8",
+            "name": "Shiinotic",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Grass",
+            "generation": 7
+        },
+        {
+            "number": "9",
+            "name": "Dhelmise",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Grass",
+            "generation": 7
+        },
+        {
+            "number": "10",
+            "name": "Ponyta",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Fire",
+            "generation": 1
+        },
+        {
+            "number": "11",
+            "name": "Rapidash",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Fire",
+            "generation": 1
+        },
+        {
+            "number": "12",
+            "name": "Magmar",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Fire",
+            "generation": 1
+        },
+        {
+            "number": "13",
+            "name": "Larvesta",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Fire",
+            "generation": 5
+        },
+        {
+            "number": "14",
+            "name": "Volcarona",
+            "subseries": "",
+            "rarity": "3d",
+            "type": "Fire",
+            "generation": 5
+        },
+        {
+            "number": "15",
+            "name": "Salandit",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Fire",
+            "generation": 7
+        },
+        {
+            "number": "16",
+            "name": "Salazzle",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Fire",
+            "generation": 7
+        },
+        {
+            "number": "17",
+            "name": "Magikarp",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Water",
+            "generation": 1
+        },
+        {
+            "number": "18",
+            "name": "Gyarados ex",
+            "subseries": "",
+            "rarity": "4d",
+            "type": "Water",
+            "generation": 1
+        },
+        {
+            "number": "19",
+            "name": "Vaporeon",
+            "subseries": "",
+            "rarity": "3d",
+            "type": "Water",
+            "generation": 1
+        },
+        {
+            "number": "20",
+            "name": "Finneon",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Water",
+            "generation": 4
+        },
+        {
+            "number": "21",
+            "name": "Lumineon",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Water",
+            "generation": 4
+        },
+        {
+            "number": "22",
+            "name": "Chewtle",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Water",
+            "generation": 8
+        },
+        {
+            "number": "23",
+            "name": "Drednaw",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Water",
+            "generation": 8
+        },
+        {
+            "number": "24",
+            "name": "Cramorant",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Water",
+            "generation": 8
+        },
+        {
+            "number": "25",
+            "name": "Pikachu",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Electric",
+            "generation": 1
+        },
+        {
+            "number": "26",
+            "name": "Raichu",
+            "subseries": "",
+            "rarity": "3d",
+            "type": "Electric",
+            "generation": 1
+        },
+        {
+            "number": "27",
+            "name": "Electabuzz",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Electric",
+            "generation": 1
+        },
+        {
+            "number": "28",
+            "name": "Joltik",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Electric",
+            "generation": 5
+        },
+        {
+            "number": "29",
+            "name": "Galvantula",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Electric",
+            "generation": 5
+        },
+        {
+            "number": "30",
+            "name": "Dedenne",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Electric",
+            "generation": 6
+        },
+        {
+            "number": "31",
+            "name": "Mew",
+            "subseries": "",
+            "rarity": "3d",
+            "type": "Psychic",
+            "generation": 1
+        },
+        {
+            "number": "32",
+            "name": "Mew ex",
+            "subseries": "",
+            "rarity": "4d",
+            "type": "Psychic",
+            "generation": 1
+        },
+        {
+            "number": "33",
+            "name": "Sigilyph",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Psychic",
+            "generation": 5
+        },
+        {
+            "number": "34",
+            "name": "Elgyem",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Psychic",
+            "generation": 5
+        },
+        {
+            "number": "35",
+            "name": "Beheeyem",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Psychic",
+            "generation": 5
+        },
+        {
+            "number": "36",
+            "name": "Flabébé",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Psychic",
+            "generation": 6
+        },
+        {
+            "number": "37",
+            "name": "Floette",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Psychic",
+            "generation": 6
+        },
+        {
+            "number": "38",
+            "name": "Florges",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Psychic",
+            "generation": 6
+        },
+        {
+            "number": "39",
+            "name": "Swirlix",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Psychic",
+            "generation": 6
+        },
+        {
+            "number": "40",
+            "name": "Slurpuff",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Psychic",
+            "generation": 6
+        },
+        {
+            "number": "41",
+            "name": "Mankey",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "42",
+            "name": "Primeape",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "43",
+            "name": "Geodude",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "44",
+            "name": "Graveler",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "45",
+            "name": "Golem",
+            "subseries": "",
+            "rarity": "3d",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "46",
+            "name": "Aerodactyl ex",
+            "subseries": "",
+            "rarity": "4d",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "47",
+            "name": "Marshadow",
+            "subseries": "",
+            "rarity": "3d",
+            "type": "Fighting",
+            "generation": 7
+        },
+        {
+            "number": "48",
+            "name": "Stonjourner",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Fighting",
+            "generation": 8
+        },
+        {
+            "number": "49",
+            "name": "Koffing",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Darkness",
+            "generation": 1
+        },
+        {
+            "number": "50",
+            "name": "Weezing",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Darkness",
+            "generation": 1
+        },
+        {
+            "number": "51",
+            "name": "Purrloin",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Darkness",
+            "generation": 5
+        },
+        {
+            "number": "52",
+            "name": "Liepard",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Darkness",
+            "generation": 5
+        },
+        {
+            "number": "53",
+            "name": "Venipede",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Darkness",
+            "generation": 5
+        },
+        {
+            "number": "54",
+            "name": "Whirlipede",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Darkness",
+            "generation": 5
+        },
+        {
+            "number": "55",
+            "name": "Scolipede",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Darkness",
+            "generation": 5
+        },
+        {
+            "number": "56",
+            "name": "Druddigon",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Dragon",
+            "generation": 5
+        },
+        {
+            "number": "57",
+            "name": "Pidgey",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "58",
+            "name": "Pidgeotto",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "59",
+            "name": "Pidgeot ex",
+            "subseries": "",
+            "rarity": "4d",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "60",
+            "name": "Tauros",
+            "subseries": "",
+            "rarity": "3d",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "61",
+            "name": "Eevee",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "62",
+            "name": "Chatot",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Colorless",
+            "generation": 4
+        },
+        {
+            "number": "63",
+            "name": "Old Amber",
+            "subseries": "",
+            "rarity": "1d",
+            "type": "Trainer",
+            "generation": 1
+        },
+        {
+            "number": "64",
+            "name": "Pokemon Flute",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Trainer",
+            "generation": 1
+        },
+        {
+            "number": "65",
+            "name": "Mythical Slab",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "66",
+            "name": "Budding Expeditioner",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "67",
+            "name": "Blue",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Trainer",
+            "generation": 1
+        },
+        {
+            "number": "68",
+            "name": "Leaf",
+            "subseries": "",
+            "rarity": "2d",
+            "type": "Trainer",
+            "generation": 3
+        },
+        {
+            "number": "69",
+            "name": "Exeggutor",
+            "subseries": "",
+            "rarity": "1s",
+            "type": "Grass",
+            "generation": 1
+        },
+        {
+            "number": "70",
+            "name": "Serperior",
+            "subseries": "",
+            "rarity": "1s",
+            "type": "Grass",
+            "generation": 5
+        },
+        {
+            "number": "71",
+            "name": "Salandit",
+            "subseries": "",
+            "rarity": "1s",
+            "type": "Fire",
+            "generation": 7
+        },
+        {
+            "number": "72",
+            "name": "Vaporeon",
+            "subseries": "",
+            "rarity": "1s",
+            "type": "Water",
+            "generation": 1
+        },
+        {
+            "number": "73",
+            "name": "Dedenne",
+            "subseries": "",
+            "rarity": "1s",
+            "type": "Electric",
+            "generation": 6
+        },
+        {
+            "number": "74",
+            "name": "Marshadow",
+            "subseries": "",
+            "rarity": "1s",
+            "type": "Fighting",
+            "generation": 8
+        },
+        {
+            "number": "75",
+            "name": "Celebi ex",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Grass",
+            "generation": 2
+        },
+        {
+            "number": "76",
+            "name": "Gyarados ex",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Water",
+            "generation": 1
+        },
+        {
+            "number": "77",
+            "name": "Mew ex",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Psychic",
+            "generation": 1
+        },
+        {
+            "number": "78",
+            "name": "Aerodactyl ex",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "79",
+            "name": "Pidgeot ex",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Colorless",
+            "generation": 1
+        },
+        {
+            "number": "80",
+            "name": "Budding Expeditioner",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Trainer",
+            "generation": null
+        },
+        {
+            "number": "81",
+            "name": "Blue",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Trainer",
+            "generation": 1
+        },
+        {
+            "number": "82",
+            "name": "Leaf",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Trainer",
+            "generation": 3
+        },
+        {
+            "number": "83",
+            "name": "Mew ex",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Psychic",
+            "generation": 1
+        },
+        {
+            "number": "84",
+            "name": "Aerodactyl ex",
+            "subseries": "",
+            "rarity": "2s",
+            "type": "Fighting",
+            "generation": 1
+        },
+        {
+            "number": "85",
+            "name": "Celebi ex",
+            "subseries": "",
+            "rarity": "3s",
+            "type": "Grass",
+            "generation": 2
+        },
+        {
+            "number": "86",
+            "name": "Mew ex",
+            "subseries": "",
+            "rarity": "1c",
+            "type": "Psychic",
+            "generation": 1
+        }
+    ]
+}
